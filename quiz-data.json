@@ -1,0 +1,915 @@
+{
+  "version": 1,
+  "updated_at": "2026-06-16T15:54:17Z",
+  "languages": [
+    "en",
+    "uk"
+  ],
+  "categories": [
+    {
+      "id": "2026",
+      "title": {
+        "en": "2026",
+        "uk": "2026"
+      },
+      "description": {
+        "en": "2026 Formula 1 season",
+        "uk": "Сезон Формули-1 2026"
+      },
+      "status": "active",
+      "sort_order": 1
+    },
+    {
+      "id": "top_moments",
+      "title": {
+        "en": "Top moments",
+        "uk": "Топ моменти"
+      },
+      "description": {
+        "en": "The most iconic moments from F1 history",
+        "uk": "Найкультовіші моменти в історії Ф1"
+      },
+      "status": "coming_soon",
+      "sort_order": 2
+    },
+    {
+      "id": "top_fails",
+      "title": {
+        "en": "Top fails",
+        "uk": "Топ фейли"
+      },
+      "description": {
+        "en": "Legendary blunders and disasters",
+        "uk": "Легендарні провали та катастрофи"
+      },
+      "status": "coming_soon",
+      "sort_order": 3
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "barcelona-2026-mc",
+      "category_id": "2026",
+      "title": {
+        "en": "Barcelona Grand Prix 2026",
+        "uk": "Гран-прі Барселони 2026"
+      },
+      "type": "multiple_choice",
+      "created_at": "2026-06-16T00:00:00Z",
+      "questions": [
+        {
+          "id": "barcelona-2026-mc-q01",
+          "text": {
+            "en": "What stabbed Kimi Antonelli in the back, running to the FIA stewards to snitch on his track limits just to steal a podium?",
+            "uk": "Хто встромив ніж у спину Кімі Антонеллі, настукавши стюардам FIA на його виїзди за білі лінії заради подіуму?"
+          },
+          "options": [
+            {
+              "en": "Ferrari",
+              "uk": "Ferrari"
+            },
+            {
+              "en": "Red Bull Racing",
+              "uk": "Red Bull Racing"
+            },
+            {
+              "en": "McLaren",
+              "uk": "McLaren"
+            },
+            {
+              "en": "Alpine",
+              "uk": "Alpine"
+            }
+          ],
+          "correct_index": 2,
+          "explanation": {
+            "en": "It was McLaren who played corporate politics, proving Kimi had 3+ violations, trying to drag Norris onto the podium.",
+            "uk": "Саме McLaren влаштував політичні ігри та довів FIA, що у Кімі було понад 3 виїзди, намагаючись протягнути Норріса на подіум."
+          }
+        },
+        {
+          "id": "barcelona-2026-mc-q02",
+          "text": {
+            "en": "What embarrassing failure turned Antonelli's car into a \"bag of bolts\" and completely murdered his race lead?",
+            "uk": "Яка ганебна поломка змусила мотор Антонеллі звучати як «мішок із болтами» та повністю знищила його лідирування?"
+          },
+          "options": [
+            {
+              "en": "Complete electronics blackout",
+              "uk": "Повне вимкнення електроніки"
+            },
+            {
+              "en": "Total engine explosion",
+              "uk": "Повний вибух двигуна"
+            },
+            {
+              "en": "Gearbox shatter",
+              "uk": "Руйнування коробки передач"
+            },
+            {
+              "en": "Stuck DRS flap",
+              "uk": "Заклинювання крила DRS"
+            }
+          ],
+          "correct_index": 0,
+          "explanation": {
+            "en": "A total electrical housing shutdown. The Silver Arrow became an expensive paperweight in a matter of seconds.",
+            "uk": "Повне знеструмлення бортової мережі! Срібна стріла перетворилася на шматок нерухомого заліза за лічені секунди."
+          }
+        },
+        {
+          "id": "barcelona-2026-mc-q03",
+          "text": {
+            "en": "How many cars actually survived the absolute carnage and managed to crawl across the finish line?",
+            "uk": "Скільки болідів взагалі спромоглися вижити та доповзти до фінішу в цьому іспанському хаосі?"
+          },
+          "options": [
+            {
+              "en": "20",
+              "uk": "20"
+            },
+            {
+              "en": "16",
+              "uk": "16"
+            },
+            {
+              "en": "14",
+              "uk": "14"
+            },
+            {
+              "en": "10",
+              "uk": "10"
+            }
+          ],
+          "correct_index": 2,
+          "explanation": {
+            "en": "Only 14 cars saw the checkered flag! The brutal 2026 reliability reality wiped out a third of the grid.",
+            "uk": "Лише 14 машин побачили картатий прапор! Нова сувора «реальність надійності» сезону-2026 розмазала амбіції третини пелотону."
+          }
+        },
+        {
+          "id": "barcelona-2026-mc-q04",
+          "text": {
+            "en": "What absurd Williams mechanical screw-up forced Alex Albon to trail the race winner by a humiliating 10 laps?",
+            "uk": "Який абсурдний фейл механіків Williams змусив Алекса Албона відстати від переможця на принизливі 10 кіл?"
+          },
+          "options": [
+            {
+              "en": "Fixing a loose onboard camera",
+              "uk": "Закріплення телекамери, що відвалилася"
+            },
+            {
+              "en": "Forgetting to put a steering wheel",
+              "uk": "Забули поставити кермо"
+            },
+            {
+              "en": "Left tire completely unbolted",
+              "uk": "Залишили колесо незакрученим"
+            },
+            {
+              "en": "Pouring diesel instead of fuel",
+              "uk": "Налили дизель замість бензину"
+            }
+          ],
+          "correct_index": 0,
+          "explanation": {
+            "en": "They wasted an eternity fixing a loose television camera pod. 10 laps down — an absolute statistical embarrassment.",
+            "uk": "Вони цілу вічність лагодили розболтане кріплення бортової телекамери. 10 кіл відставання — абсолютний антирекорд!"
+          }
+        },
+        {
+          "id": "barcelona-2026-mc-q05",
+          "text": {
+            "en": "What mechanical nightmare struck Charles Leclerc, sending his Ferrari spearing straight through the Turn 2 gravel?",
+            "uk": "Яка катастрофа спіткала Шарля Леклера, змусивши його пролетіти по гравію по прямій у другому повороті?"
+          },
+          "options": [
+            {
+              "en": "Brake pedal snap",
+              "uk": "Зламалася педаль гальм"
+            },
+            {
+              "en": "Total failure of power steering",
+              "uk": "Повна відмова гідропідсилювача керма"
+            },
+            {
+              "en": "Engine block explosion",
+              "uk": "Вибух блоку циліндрів"
+            },
+            {
+              "en": "Rear wing disintegration",
+              "uk": "Руйнування заднього крила"
+            }
+          ],
+          "correct_index": 1,
+          "explanation": {
+            "en": "Complete power steering death. The wheel went stiff, turning Leclerc into a pure passenger just laps before the finish.",
+            "uk": "Повна смерть гідропідсилювача керма. Кермо заклинило намертво, перетворивши Леклера на пасажира некерованої червоної ракети."
+          }
+        },
+        {
+          "id": "barcelona-2026-mc-q06",
+          "text": {
+            "en": "Whose late-race disasters essentially gifted Lando Norris a podium he openly admitted he didn't deserve after qualifying 5th-6th?",
+            "uk": "Завдяки чиїм сходам наприкінці гонки Ландо Норріс «на шару» застрибнув на подіум, хоча сам готувався лише до 5-6 місця?"
+          },
+          "options": [
+            {
+              "en": "Verstappen & Perez",
+              "uk": "Verstappen & Perez"
+            },
+            {
+              "en": "Antonelli & Leclerc",
+              "uk": "Антонеллі та Леклер"
+            },
+            {
+              "en": "Albon & Colapinto",
+              "uk": "Albon & Colapinto"
+            },
+            {
+              "en": "Gasly & Piastri",
+              "uk": "Gasly & Piastri"
+            }
+          ],
+          "correct_index": 1,
+          "explanation": {
+            "en": "The double technical collapse of Antonelli and Leclerc cleared the path for Lando to grab silverware he never expected.",
+            "uk": "Подвійний technical-колапс Антонеллі та Леклера розчистив Ландо дорогу до шампанського, якого він сам не очікував!"
+          }
+        },
+        {
+          "id": "barcelona-2026-mc-q07",
+          "text": {
+            "en": "Who conducted the post-race Parc Fermé interviews, facing the joy and excuses of the top three?",
+            "uk": "Хто брав у пілотів інтерв'ю в закритому парку (Parc Fermé) та вислуховував виправдання та радощі трійки лідерів?"
+          },
+          "options": [
+            {
+              "en": "Nico Rosberg",
+              "uk": "Ніко Росберг"
+            },
+            {
+              "en": "David Coulthard",
+              "uk": "Девід Култхард"
+            },
+            {
+              "en": "Martin Brundle",
+              "uk": "Мартін Брандл"
+            },
+            {
+              "en": "Guenter Steiner",
+              "uk": "Гюнтер Штайнер"
+            }
+          ],
+          "correct_index": 0,
+          "explanation": {
+            "en": "Hamilton's ultimate frenemy, Nico Rosberg, held the microphone, interviewing Lewis on his historic first Ferrari win.",
+            "uk": "Давній «заклятий друг» Хемілтона — Ніко Росберг — ставив питання і вислуховував одкровення Льюїса про його першу перемогу за Ferrari."
+          }
+        },
+        {
+          "id": "barcelona-2026-mc-q08",
+          "text": {
+            "en": "What historic British milestone did this crazy Barcelona podium repeat for the first time since 1968?",
+            "uk": "Який історичний британський рекорд повторив цей шалений подіум у Барселоні вперше з 1968 року?"
+          },
+          "options": [
+            {
+              "en": "All drivers using Mercedes engines",
+              "uk": "Усі на двигунах Mercedes"
+            },
+            {
+              "en": "Entire podium occupied by British drivers",
+              "uk": "Повністю британський подіум"
+            },
+            {
+              "en": "Average age under 20",
+              "uk": "Середній вік менше 20 років"
+            },
+            {
+              "en": "All drivers penalised after the race",
+              "uk": "Усі оштрафовані після фінішу"
+            }
+          ],
+          "correct_index": 1,
+          "explanation": {
+            "en": "Hamilton, Russell, and Norris locked out the podium, replicating Jackie Stewart, Graham Hill, and John Surtees' 1968 feat.",
+            "uk": "Хемілтон, Расселл і Норріс повністю окупували подіум! Останній такий тріумф належав Джекі Стюарту, Грему Хіллу та Джону Сертіса 58 років тому."
+          }
+        },
+        {
+          "id": "barcelona-2026-mc-q09",
+          "text": {
+            "en": "The team switched Lewis Hamilton to a multi-stop strategy. What exact number of pit stops did #44 execute to win?",
+            "uk": "Команда перевела Льюїса Хемілтона на тактику кількох зупинок. Яку точну кількість піт-стопів зробив №44 для перемоги?"
+          },
+          "options": [
+            {
+              "en": "1",
+              "uk": "1"
+            },
+            {
+              "en": "2",
+              "uk": "2"
+            },
+            {
+              "en": "3",
+              "uk": "3"
+            },
+            {
+              "en": "4",
+              "uk": "4"
+            }
+          ],
+          "correct_index": 2,
+          "explanation": {
+            "en": "Lewis secured his victory running a calculated three-stop strategy, giving him the necessary tire life to outpace the pack.",
+            "uk": "Льюїс пройшов гонку за стратегією трьох зупинок, що й дозволило йому витиснути максимум із шин на зношеному асфальті Барселони."
+          }
+        },
+        {
+          "id": "barcelona-2026-mc-q10",
+          "text": {
+            "en": "Which leading Red Bull driver did Lewis Hamilton epicly leapfrog right at the pit exit line thanks to a blistering out-lap?",
+            "uk": "Якого лідера Ред Булл Льюїс Хемілтон епічно пройшов прямо на виїзді з піт-лейн завдяки божевільному колу виїзду?"
+          },
+          "options": [
+            {
+              "en": "Max Verstappen",
+              "uk": "Макс Ферстаппен"
+            },
+            {
+              "en": "Sergio Perez",
+              "uk": "Серхіо Перес"
+            },
+            {
+              "en": "Isack Hadjar",
+              "uk": "Ісак Аджар"
+            },
+            {
+              "en": "Liam Lawson",
+              "uk": "Ліам Лоусон"
+            }
+          ],
+          "correct_index": 0,
+          "explanation": {
+            "en": "Hamilton flew out of the pits on fresh rubber and aggressively shut the door on Max Verstappen just before Turn 1.",
+            "uk": "Хемілтон вилетів із боксів на свіжій гумі та жорстко перекрив траєкторію Максу Ферстаппену прямо перед першим поворотом."
+          }
+        },
+        {
+          "id": "barcelona-2026-mc-q11",
+          "text": {
+            "en": "Which top driver finished in a bitter 4th place, falling a massive 16.7 seconds behind Lando Norris, proving engine power isn't everything?",
+            "uk": "Хто з топ-пілотів фінішував на кислому 4-му місці з відставанням аж у 16.7 секунди від Норріса, довівши, що потужність мотора не вирішує все?"
+          },
+          "options": [
+            {
+              "en": "Max Verstappen",
+              "uk": "Макс Ферстаппен"
+            },
+            {
+              "en": "Oscar Piastri",
+              "uk": "Оскар Піастрі"
+            },
+            {
+              "en": "George Russell",
+              "uk": "Джордж Расселл"
+            },
+            {
+              "en": "Carlos Sainz",
+              "uk": "Карлос Сайнс"
+            }
+          ],
+          "correct_index": 0,
+          "explanation": {
+            "en": "Max Verstappen finished 16.778s behind Norris. The media jokingly mocked Red Bull, saying the most powerful engine brought zero benefit due to chassis balance.",
+            "uk": "Макс Ферстаппен фінішував у 16.778 секундах позаду Норріса. Найпотужніший мотор не дав Red Bull жодної переваги через проблеми з шасі."
+          }
+        },
+        {
+          "id": "barcelona-2026-mc-q12",
+          "text": {
+            "en": "Which driver was bleeding pace late in the race, dropping 4.4 seconds behind Verstappen due to technical issues before officially retiring?",
+            "uk": "Який пілот зливав позиції в кінці гонки і опустився на 4.4 секунди позаду Ферстаппена через проблеми з машиною ще до свого повного сходу?"
+          },
+          "options": [
+            {
+              "en": "Kimi Antonelli",
+              "uk": "Kimi Antonelli"
+            },
+            {
+              "en": "Charles Leclerc",
+              "uk": "Шарль Леклер"
+            },
+            {
+              "en": "Pierre Gasly",
+              "uk": "П'єр Гаслі"
+            },
+            {
+              "en": "Esteban Ocon",
+              "uk": "Естебан Окон"
+            }
+          ],
+          "correct_index": 1,
+          "explanation": {
+            "en": "Updates highlighted that Leclerc was losing major ground to Max, a clear prelude to his catastrophic steering loss and DNF.",
+            "uk": "Трансляція зафіксувала, що Леклер почав стрімко втрачати темп і відставати від Макса безпосередньо перед тим, як його кермо остаточно померло."
+          }
+        },
+        {
+          "id": "barcelona-2026-mc-q13",
+          "text": {
+            "en": "Which driver entered the pit lane at the end of lap 59 to dump his worn hard tires for a desperate switch to softs?",
+            "uk": "Хто з гонщиків заїхав на піт-лейн наприкінці 59-го кола, щоб скинути зношений хард і відчайдушно перевзутися в софт?"
+          },
+          "options": [
+            {
+              "en": "Isack Hadjar",
+              "uk": "Ісак Аджар"
+            },
+            {
+              "en": "Franco Colapinto",
+              "uk": "Франко Колапінто"
+            },
+            {
+              "en": "Yuki Tsunoda",
+              "uk": "Юкі Цунода"
+            },
+            {
+              "en": "Oliver Bearman",
+              "uk": "Олівер Берман"
+            }
+          ],
+          "correct_index": 0,
+          "explanation": {
+            "en": "At the end of lap 59, Isack Hadjar pitted to switch his hard compounds for a fresh set of softs.",
+            "uk": "Наприкінці 59-го кола Ісак Аджар зробив свій фінальний піт-стоп, змінивши жорсткі покришки на м'які в надії на фінальний спурт."
+          }
+        },
+        {
+          "id": "barcelona-2026-mc-q14",
+          "text": {
+            "en": "Which upcoming Grand Prix are the teams preparing for next, where reporters promised to return with the greeting \"Servus!\"?",
+            "uk": "До якого наступного етапу готуються команди після божевілля в Іспанії, куди журналісти пообіцяли повернутися зі словами «Servus!»?"
+          },
+          "options": [
+            {
+              "en": "Monaco",
+              "uk": "Монако"
+            },
+            {
+              "en": "Austria",
+              "uk": "Австрія"
+            },
+            {
+              "en": "Silverstone",
+              "uk": "Сільверстоун"
+            },
+            {
+              "en": "Monza",
+              "uk": "Монца"
+            }
+          ],
+          "correct_index": 1,
+          "explanation": {
+            "en": "The commentary closed out by confirming the next round in Austria, using the traditional Austrian greeting \"Servus!\".",
+            "uk": "Трансляція завершилася анонсом етапу в Австрії («We'll be back in two weeks to say 'Servus!' from Austria»)."
+          }
+        },
+        {
+          "id": "barcelona-2026-mc-q15",
+          "text": {
+            "en": "Which two midfield teams unexpectedly hit the jackpot with \"brilliant points\", leaving Flavio Briatore smiling with deep satisfaction?",
+            "uk": "Які дві команди другого ешелону несподівано зірвали куш у вигляді «шикарних очок», змусивши Флавіо Бріаторе знову задоволено посміхатися?"
+          },
+          "options": [
+            {
+              "en": "Williams & Sauber",
+              "uk": "Williams & Sauber"
+            },
+            {
+              "en": "Alpine & Racing Bulls",
+              "uk": "Альпін та Рейсінг Буллс"
+            },
+            {
+              "en": "Haas & McLaren",
+              "uk": "Haas & McLaren"
+            },
+            {
+              "en": "Aston Martin & Ferrari",
+              "uk": "Aston Martin & Ferrari"
+            }
+          ],
+          "correct_index": 1,
+          "explanation": {
+            "en": "Post-race updates specifically highlighted massive points hauls for Alpine (making Flavio happy once again) and Racing Bulls.",
+            "uk": "Аналітики окремо виділили шикарні очки для Alpine (де Флавіо знову задоволений) та Racing Bulls за заліком стабільності за Ферстаппеном."
+          }
+        },
+        {
+          "id": "barcelona-2026-mc-q16",
+          "text": {
+            "en": "Which driver was slapped with a brutal 10-second penalty for flat-out ignoring yellow flags, causing stewards to relegate him from a brilliant 8th place down to 10th?",
+            "uk": "Який пілот отримав нищівні 10 секунд штрафу за повне ігнорування жовтих прапорів, через що стюарди з тріском скинули його з крутого 8-го місця на 10-те?"
+          },
+          "options": [
+            {
+              "en": "Franco Colapinto",
+              "uk": "Франко Колапінто"
+            },
+            {
+              "en": "Alex Albon",
+              "uk": "Алекс Албон"
+            },
+            {
+              "en": "Oliver Bearman",
+              "uk": "Олівер Берман"
+            },
+            {
+              "en": "Liam Lawson",
+              "uk": "Ліам Лоусон"
+            }
+          ],
+          "correct_index": 0,
+          "explanation": {
+            "en": "Franco Colapinto failed to lift under yellow flags, getting slapped with a 10-second penalty and a license penalty point.",
+            "uk": "Франко Колапінто забив на безпеку під жовтими прапорами, за що отримав +10 секунд до фінішного часу та штрафний бал у ліцензію."
+          }
+        },
+        {
+          "id": "barcelona-2026-mc-q17",
+          "text": {
+            "en": "On which exact lap did George Russell throw an aggressive and dangerous block down the main straight against Kimi Antonelli?",
+            "uk": "На якому саме колі Джордж Расселл влаштував агресивне та небезпечне блокування проти Кімі Антонеллі на головній прямій?"
+          },
+          "options": [
+            {
+              "en": "Lap 12",
+              "uk": "12 коло"
+            },
+            {
+              "en": "Lap 44",
+              "uk": "44 коло"
+            },
+            {
+              "en": "Lap 54",
+              "uk": "54 коло"
+            },
+            {
+              "en": "Lap 61",
+              "uk": "61 коло"
+            }
+          ],
+          "correct_index": 3,
+          "explanation": {
+            "en": "Russell chopped across aggressively to the right on lap 61, trying everything to hold off the young Italian's charge.",
+            "uk": "Расселл жорстко змістився вправо на головній прямій саме на 61-му колі, намагаючись будь-якою ціною стримати натиск юного італійця."
+          }
+        },
+        {
+          "id": "barcelona-2026-mc-q18",
+          "text": {
+            "en": "Which team executed the fastest pit stop at the 2026 Barcelona Grand Prix, winning the DHL Fastest Pit Stop Award?",
+            "uk": "Яка команда провела найшвидший піт-стоп на Гран-прі Барселони 2026 року, виборовши престижну нагороду DHL Fastest Pit Stop Award?"
+          },
+          "options": [
+            {
+              "en": "Ferrari",
+              "uk": "Феррарі"
+            },
+            {
+              "en": "McLaren",
+              "uk": "Макларен"
+            },
+            {
+              "en": "Mercedes",
+              "uk": "Мерседес"
+            },
+            {
+              "en": "Red Bull Racing",
+              "uk": "Ред Булл Рейсінг"
+            }
+          ],
+          "correct_index": 1,
+          "explanation": {
+            "en": "The McLaren pit crew performed the fastest pit stop of the race for Oscar Piastri, claiming the official DHL Fastest Pit Stop Award.",
+            "uk": "Механіки команди McLaren провели блискавичний піт-стоп для Оскара Піастрі, що дозволило їм здобути офіційну нагороду DHL на цьому етапі."
+          }
+        },
+        {
+          "id": "barcelona-2026-mc-q19",
+          "text": {
+            "en": "What did Fernando Alonso, with his signature irony, call the \"single best part\" of his miserable home weekend in Barcelona?",
+            "uk": "Що Фернандо Алонсо зі своєю фірмовою токсичною іронією назвав «єдиною найкращою частиною» свого жахливого домашнього вікенду в Барселоні?"
+          },
+          "options": [
+            {
+              "en": "Technical upgrades",
+              "uk": "Технічні оновлення боліда"
+            },
+            {
+              "en": "Pre-race drivers' parade",
+              "uk": "Парад пілотів перед гонкою"
+            },
+            {
+              "en": "Post-race team dinner",
+              "uk": "Післягоночна вечеря з командою"
+            },
+            {
+              "en": "Strategy meetings",
+              "uk": "Стратегічні брифінги"
+            }
+          ],
+          "correct_index": 1,
+          "explanation": {
+            "en": "The sarcastic Spaniard stated that the single best part of his entire underperforming weekend was just the pre-race drivers' parade.",
+            "uk": "Саркастичний іспанець прямо заявив, що найкращим моментом усього провального вікенду був лише парад перед рідними іспанськими трибунами."
+          }
+        },
+        {
+          "id": "barcelona-2026-mc-q20",
+          "text": {
+            "en": "What exact gap crossing the finish line did the final classification record between Russell in P2 and Norris in P3?",
+            "uk": "Який точний розрив зафіксував офіційний фінальний протокол на лінії фінішу між другим місцем Расселла та третім місцем Норріса?"
+          },
+          "options": [
+            {
+              "en": "0.054 s",
+              "uk": "0.054 сек"
+            },
+            {
+              "en": "2.300 s",
+              "uk": "2.300 сек"
+            },
+            {
+              "en": "4.158 s",
+              "uk": "4.158 сек"
+            },
+            {
+              "en": "19.200 s",
+              "uk": "19.200 сек"
+            }
+          ],
+          "correct_index": 2,
+          "explanation": {
+            "en": "The final official classification data confirmed that the gap between P2 and P3 was exactly 4.158 seconds.",
+            "uk": "Офіційний аналіз результатів після закінчення гонки зафіксував розрив між двома британцями рівно у 4.158 секунди."
+          }
+        }
+      ]
+    },
+    {
+      "id": "barcelona-2026-tf",
+      "category_id": "2026",
+      "title": {
+        "en": "Barcelona Grand Prix 2026",
+        "uk": "Гран-прі Барселони 2026"
+      },
+      "type": "true_false",
+      "created_at": "2026-06-16T00:00:00Z",
+      "questions": [
+        {
+          "id": "barcelona-2026-tf-q21",
+          "text": {
+            "en": "True or False: George Russell threw a brutal block down the straight against Antonelli, almost giving Toto Wolff a massive heart attack?",
+            "uk": "Правда чи брехня: Джордж Расселл під час оборони від Антонеллі нахабно заблокував його на прямій, мало не влаштувавши аварію року для Тото Вольффа?"
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "True! Russell chopped across aggressively to the right on lap 61, but the young Italian successfully forced his way past regardless.",
+            "uk": "Щира правда! Расселл різко змістився вправо на головній прямій 61-го кола, захищаючись як божевільний, але юний італієць все одно пройшов його."
+          }
+        },
+        {
+          "id": "barcelona-2026-tf-q22",
+          "text": {
+            "en": "True or False: Franco Colapinto crossed the line in a brilliant 8th, only for stewards to brutally relegate him to 10th for flat-out ignoring yellow flags?",
+            "uk": "Правда чи брехня: Франко Колапінто перетнув лінію фінішу крутим 8-м, але стюарди з тріском скинули його на 10-те місце через повне ігнорування жовтих прапорів?"
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "True! The Argentine failed to lift under yellow flags, getting slapped with a 10-second penalty and a penalty license point.",
+            "uk": "Правда! Аргентинець наплював на безпеку під жовтими прапорами, за що отримав +10 секунд штрафу та один штрафний бал у карму."
+          }
+        },
+        {
+          "id": "barcelona-2026-tf-q23",
+          "text": {
+            "en": "True or False: Lewis Hamilton won this absolute hell of a race by opting for a ridiculous 5-stop strategy?",
+            "uk": "Правда чи брехня: Льюїс Хемілтон виграв цю пекельну гонку на витривалість, заїхавши в бокси неймовірні 5 разів?"
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "False! Hamilton secured his historic victory running a tight 3-stop strategy, not an absurd five stops.",
+            "uk": "Брехня! Хемілтон виграв гонку на чіткій тактиці 3-х піт-стопів, що було підтверджено офіційним таймінгом гонки."
+          }
+        },
+        {
+          "id": "barcelona-2026-tf-q24",
+          "text": {
+            "en": "True or False: Even though his electronics completely betrayed him, Antonelli still managed to maintain his lead in the Drivers' Championship?",
+            "uk": "Правда чи брехня: Навіть попри те, що електроніка повністю зрадила Антонеллі, він усе одно примудрився зберегти лідерство в особистому заліку чемпіонату?"
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "True! Despite scoring a zero due to the blackout, insiders confirm Kimi still held onto his championship lead.",
+            "uk": "Чиста правда! Аналітика підтверджує: незважаючи на прикрий нуль через знеструмлення машини, Кімі зберіг першу позицію в чемпіонаті."
+          }
+        },
+        {
+          "id": "barcelona-2026-tf-q25",
+          "text": {
+            "en": "True or False: Commentators noted that George Russell completely depleted his hybrid energy (ERS) while trying to hold off Kimi Antonelli?",
+            "uk": "Правда чи брехня: Коментатори зазначили, що Джордж Расселл під кінець дуелі з Антонеллі повністю вижав усю батарею (ERS) і захищався без гібридної енергії?"
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "True! Russell completely ran out of ERS deployment at the critical moment, leaving him dead meat on the straight.",
+            "uk": "Правда! У Расселла закінчився електричний заряд на колі захисту, що розв'язало руки Антонеллі для атаки на прямій."
+          }
+        },
+        {
+          "id": "barcelona-2026-tf-q26",
+          "text": {
+            "en": "True or False: Fernando Alonso openly wept in the media pen, calling his car the absolute worst piece of junk he has ever driven?",
+            "uk": "Правда чи брехня: Фернандо Алонсо після гонки розплакався у медіа-зоні, заявивши, що його болід був найгіршим шматком заліза за всю його кар'єру?"
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "False! The ironic Spaniard stated that the single best part of his entire underperforming weekend was just the pre-race drivers' parade.",
+            "uk": "Повна брехня! Саркастичний іспанець відбувся жартами, заявивши, що найкращою частиною його жахливого вікенду був... парад пілотів."
+          }
+        },
+        {
+          "id": "barcelona-2026-tf-q27",
+          "text": {
+            "en": "True or False: Pierre Gasly demonstrated rock-solid consistency and locked himself in the driver standings directly behind Max Verstappen?",
+            "uk": "Правда чи брехня: П'єр Гаслі продемонстрував залізобетонну стабільність та зміг закріпитися у заліку пілотів прямо слідом за Максом Ферстаппеном?"
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "True! Insiders praised Gasly's steady hand, noting he is anchoring himself in the standings right behind Verstappen.",
+            "uk": "Правда! Пости аналітиків підтверджують, що Гаслі проводить чудово відрізок і закріплюється у заліку слідом за лідером Red Bull."
+          }
+        },
+        {
+          "id": "barcelona-2026-tf-q28",
+          "text": {
+            "en": "True or False: The track marshals effortlessly slid Antonelli's broken car through a gap in the concrete barriers?",
+            "uk": "Правда чи брехня: Маршали на трасі з легкістю в один момент пропхнули зламаний болід Антонеллі крізь технологічний отвір у бар'єрі?"
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "False! Live commentary explicitly noted that marshals were heavily struggling to manhandle the dead Mercedes through the narrow barrier gap.",
+            "uk": "Брехня! Хроніка гонки зафіксувала, що маршали сильно мучилися і буквально вручну намагалися пропхнути заклинилу машину крізь вузький отвір."
+          }
+        },
+        {
+          "id": "barcelona-2026-tf-q29",
+          "text": {
+            "en": "True or False: When the Virtual Safety Car came out, Ferrari immediately boxed Hamilton for new tires because Russell was only 2 seconds behind?",
+            "uk": "Правда чи брехня: Коли увімкнувся режим віртуального сейфти-кара (VSC), Ferrari негайно затягнула Хемілтона на піт-стоп для заміни шин, оскільки Расселл відставав усього на 2 секунди?"
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "False! Ferrari did box Hamilton under the neutralization for safety, but not because of a fake 2-second gap, as Lewis held a massive, comfortable lead over Russell.",
+            "uk": "Брехня! Ferrari дійсно провела піт-стоп для Хемілтона під сейфти-каром задля безпеки, але не через міфічні 2 секунди, а маючи гігантський комфортний відрив попереду."
+          }
+        },
+        {
+          "id": "barcelona-2026-tf-q30",
+          "text": {
+            "en": "True or False: After the VSC restart with just a lap and a half to go, Hamilton held a massive 19.2-second lead over Russell?",
+            "uk": "Правда чи брехня: Після рестарту за півтора кола до фінішу відрив Хемілтона від Расселла становив космічні 19.2 секунди?"
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "True! The commentary data precisely locked the gap at 19.2 seconds as the green flags waved for the final sprint.",
+            "uk": "Абсолютна правда! Офіційний таймінг зафіксував розрив у 19.2 секунди в момент, коли зелені прапори дали старт фінальному колу гонки."
+          }
+        },
+        {
+          "id": "barcelona-2026-tf-q31",
+          "text": {
+            "en": "True or False: Lando Norris got so close to Antonelli a few laps before the DNF that he was tailing within 0.5s in full overtake mode?",
+            "uk": "Правда чи брехня: Ландо Норріс настільки близько підібрався до Антонеллі за кілька кіл до його сходу, що висів у нього на хвості з увімкненим режимом обгону в межах 0.5 секунди?"
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "False! Live data showed Norris actually fell back from Antonelli, dropping to 2.3 seconds behind before the Mercedes shut down.",
+            "uk": "...Брехня! Хроніка гонки каже, що Норріс навпаки почав відставати від Кімі та випав із зони атаки, опинившись у 2.3 секундах позаду італійця."
+          }
+        },
+        {
+          "id": "barcelona-2026-tf-q32",
+          "text": {
+            "en": "True or False: This insane Barcelona victory marked Lewis Hamilton's first-ever Grand Prix win driving for Scuderia Ferrari?",
+            "uk": "Правда чи брехня: Ця шалена перемога в Іспанії стала для Льюїса Хемілтона першим в історії виграним Гран-прі у комбінезоні Ferrari?"
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "True! Media highlighted this as Hamilton's maiden Grand Prix win for Ferrari, adding to his sprint victory from the previous season.",
+            "uk": "Чиста правда! Журналісти окремо наголосили, що це його дебютний тріумф у недільній гонці за Скудерію, на додачу до торішнього виграного спринту."
+          }
+        },
+        {
+          "id": "barcelona-2026-tf-q33",
+          "text": {
+            "en": "True or False: The final gap crossing the line between Russell in P2 and Norris in P3 was a very tight 4.1 seconds?",
+            "uk": "Правда чи брехня: Фінальний розрив на фініші між другим місцем Расселла та третім місцем Норріса склав дуже щільні 4.1 секунди?"
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "True! The final classification analytics confirmed the gap between P2 and P3 was exactly 4.158 seconds.",
+            "uk": "Правда! Офіційний аналіз результатів після фінішу зафіксував розрив між двома британцями рівно у 4.158 секунди."
+          }
+        },
+        {
+          "id": "barcelona-2026-tf-q34",
+          "text": {
+            "en": "True or False: Lando Norris complained to Rosberg during the interview that he couldn't hear a single word due to the roaring crowd?",
+            "uk": "Правда чи брехня: Ландо Норріс під час флеш-інтерв'ю з Росбергом поскаржився, що через ревіння трибун абсолютно не чує жодного його слова?"
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "True! Lando literally stated, \"Can't hear a word you're saying,\" highlighting the deafening trackside atmosphere.",
+            "uk": "Правда! Норріс прямо сказав Ніко: «Can't hear a word you're saying», що окремо підкреслило шалену атмосферу на автодромі."
+          }
+        },
+        {
+          "id": "barcelona-2026-tf-q35",
+          "text": {
+            "en": "True or False: Media highlighted a wholesome moment in Parc Fermé when Norris approached Hamilton and said, \"I'm really happy for you, mate\"?",
+            "uk": "Правда чи брехня: Журналісти відзначили унікальну душевність моменту в закритому парку, коли Норріс підійшов до Хемілтона і щиро сказав: «Я дуже радий за тебе, друже»?"
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "True! The commentary feed explicitly picked up this beautiful show of sportsmanship and camaraderie between the drivers.",
+            "uk": "Чиста правда! Хронікери окремо виділили цей прояв поваги та «wholesome feels» між двома британськими зірками після фінішу драми."
+          }
+        },
+        {
+          "id": "barcelona-2026-tf-q36",
+          "text": {
+            "en": "True or False: The reason Alex Albon trailed the leader by a humiliating 10 laps was that Williams mechanics accidentally poured diesel instead of racing fuel.",
+            "uk": "Правда чи брехня: Причиною, через яку Алекс Албон відстав від лідера на принизливі 10 кіл, стало те, що механіки Williams помилково залили дизель замість гоночного палива."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "False! The team wasted an eternity simply fixing a loose onboard television camera pod, causing the massive statistical embarrassment.",
+            "uk": "Брехня! Механіки цілу вічність витратили на те, щоб банально зафіксувати розболтане кріплення бортової телекамери, що й призвело до дикого відставання."
+          }
+        },
+        {
+          "id": "barcelona-2026-tf-q37",
+          "text": {
+            "en": "True or False: Before his unfortunate technical retirement, Kimi Antonelli was confidently leading the race until a sudden electrical blackout cut all power to his car.",
+            "uk": "Правда чи брехня: Перед своїм прикрим технічним сходом Кімі Антонеллі впевнено лідирував у гонці, поки раптове вимкнення електроніки повністю не знеструмило його болиб."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "True! A total electrical housing shutdown turned Antonelli's leading Silver Arrow into an expensive paperweight in a matter of seconds.",
+            "uk": "Абсолютна правда! Повне знеструмлення бортової мережі миттєво перетворило лідируючу Срібну стрілу на нерухомий шматок заліза за лічені секунди."
+          }
+        },
+        {
+          "id": "barcelona-2026-tf-q38",
+          "text": {
+            "en": "True or False: Charles Leclerc's dramatic trip straight through the Turn 2 gravel was caused by his Ferrari's brake pedal snapping completely in half.",
+            "uk": "Правда чи брехня: Драматичний виліт Шарля Леклера по прямій у гравій другого повороту був викликаний тим, що у його Ferrari повністю зламалася педаль гальм."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "False! It was triggered by a complete power steering death. The steering wheel went completely stiff, leaving Leclerc a pure passenger.",
+            "uk": "Брехня! Причиною стала раптова повна відмова гідропідсилювача керма, через що кермо заклинило намертво, зробивши Леклера просто пасажиром."
+          }
+        },
+        {
+          "id": "barcelona-2026-tf-q39",
+          "text": {
+            "en": "True or False: The wild all-British podium in Barcelona (Hamilton, Russell, Norris) repeated a historic 1968 milestone where the entire podium was locked out by British drivers.",
+            "uk": "Правда чи брехня: Шалений британський тріумф на подіумі в Барселоні (Хемілтон, Расселл, Норріс) повторив історичне досягнення 1968 року, коли весь подіум повністю належав гонщикам із Великої Британії."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "True! Hamilton, Russell, and Norris locked out the podium, replicating the iconic 1968 feat of Jackie Stewart, Graham Hill, and John Surtees.",
+            "uk": "Щира правда! Льюїс, Джордж та Ландо повністю окупували топ-3, повторивши успіх Джекі Стюарта, Грема Хілла та Джона Сертіса 58 років тому."
+          }
+        },
+        {
+          "id": "barcelona-2026-tf-q40",
+          "text": {
+            "en": "True or False: Lando Norris stated during his interview that he fully deserved this podium due to his perfect qualifying pace, where he secured 5th-6th on the grid.",
+            "uk": "Правда чи брехня: Ландо Норріс під час післягоночного інтерв'ю заявив, що повністю заслужив цей подіум завдяки своїй ідеальній швидкості у кваліфікації, де він посів 5-6 місце."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "False! Norris openly admitted he didn't deserve the podium after qualifying 5th-6th, calling it a total gift from the late-race disasters of his rivals.",
+            "uk": "Брехня! Ландо відкрито визнав у розмові з Росбергом, що взагалі не заслуговував на цей подіум, оскільки отримав його «на шару» через сходи суперників."
+          }
+        }
+      ]
+    }
+  ]
+}
