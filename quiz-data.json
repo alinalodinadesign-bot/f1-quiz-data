@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated_at": "2026-06-16T15:54:17Z",
+  "version": 2,
+  "updated_at": "2026-06-26T13:24:09Z",
   "languages": [
     "en",
     "uk"
@@ -907,6 +907,870 @@
           "explanation": {
             "en": "False! Norris openly admitted he didn't deserve the podium after qualifying 5th-6th, calling it a total gift from the late-race disasters of his rivals.",
             "uk": "Брехня! Ландо відкрито визнав у розмові з Росбергом, що взагалі не заслуговував на цей подіум, оскільки отримав його «на шару» через сходи суперників."
+          }
+        }
+      ]
+    },
+    {
+      "id": "monaco-2026-mc",
+      "category_id": "2026",
+      "title": {
+        "en": "Monaco Grand Prix 2026",
+        "uk": "Гран-прі Монако 2026"
+      },
+      "type": "multiple_choice",
+      "created_at": "2026-06-07T00:00:00Z",
+      "questions": [
+        {
+          "id": "monaco-2026-mc-q01",
+          "text": {
+            "en": "Pole-sitter Antonelli streaked away cleanly, yet one front-row starter sat frozen as the whole field poured past. Whose Sunday ended before Turn 1?",
+            "uk": "Поулсіттер Антонеллі чисто рвонув уперед, але один пілот першого ряду застиг на місці, поки пелотон пролітав повз. Чия неділя обірвалася ще до першого повороту?"
+          },
+          "options": [
+            {
+              "en": "Lewis Hamilton",
+              "uk": "Льюїс Гамільтон"
+            },
+            {
+              "en": "Max Verstappen",
+              "uk": "Макс Ферстаппен"
+            },
+            {
+              "en": "Charles Leclerc",
+              "uk": "Шарль Леклер"
+            },
+            {
+              "en": "George Russell",
+              "uk": "Джордж Расселл"
+            }
+          ],
+          "correct_index": 1,
+          "explanation": {
+            "en": "His car slipped into anti-stall the instant the lights went out, and the engine simply never woke up again.",
+            "uk": "Болід пірнув у режим anti-stall тієї ж миті, щойно згасло світло, і двигун уже так і не ожив."
+          }
+        },
+        {
+          "id": "monaco-2026-mc-q02",
+          "text": {
+            "en": "One driver compounded a pit-speeding penalty by serving it all wrong, earning a drive-through that wrecked his race and bottled up the pack. Who?",
+            "uk": "Один пілот примудрився відбути штраф за швидкість у боксах геть неправильно, заробивши drive-through, який знищив його гонку й застопорив пелотон. Хто це?"
+          },
+          "options": [
+            {
+              "en": "Oscar Piastri",
+              "uk": "Оскар Піастрі"
+            },
+            {
+              "en": "Pierre Gasly",
+              "uk": "П'єр Гаслі"
+            },
+            {
+              "en": "George Russell",
+              "uk": "Джордж Расселл"
+            },
+            {
+              "en": "Lando Norris",
+              "uk": "Ландо Норріс"
+            }
+          ],
+          "correct_index": 2,
+          "explanation": {
+            "en": "A line crossed at the pit exit, speed in the pits, then a botched penalty — a parade of errors that buried his afternoon.",
+            "uk": "І лінію на виїзді перетнув, і у боксах перевищив, і штраф відбув не так — справжній парад помилок, що поховав його день."
+          }
+        },
+        {
+          "id": "monaco-2026-mc-q03",
+          "text": {
+            "en": "A podium was his for the taking until the restart: zero grip, a long skate over the marbles, and the final-corner barrier. Who threw it away?",
+            "uk": "Подіум був практично в кишені — аж до рестарту: нуль зчеплення, довге ковзання по «марблз» і відбійник в останньому повороті. Хто все втратив?"
+          },
+          "options": [
+            {
+              "en": "Charles Leclerc",
+              "uk": "Шарль Леклер"
+            },
+            {
+              "en": "Pierre Gasly",
+              "uk": "П'єр Гаслі"
+            },
+            {
+              "en": "Lewis Hamilton",
+              "uk": "Льюїс Гамільтон"
+            },
+            {
+              "en": "Kimi Antonelli",
+              "uk": "Кімі Антонеллі"
+            }
+          ],
+          "correct_index": 0,
+          "explanation": {
+            "en": "He slid over the debris with frozen front wheels and met the wall — and flatly refused to take the blame.",
+            "uk": "Він проковзнув по уламках із замкненими передніми колесами просто у стіну — і навідріз відмовився брати провину на себе."
+          }
+        },
+        {
+          "id": "monaco-2026-mc-q04",
+          "text": {
+            "en": "Power-unit gremlins haunted him all weekend, and now a flat battery left him crawling to the garage — his third blank in a row. Who?",
+            "uk": "Проблеми із силовою установкою переслідували його весь вікенд, а тепер сіла батарея — і він поповз у бокси, оформивши третій провал поспіль. Хто це?"
+          },
+          "options": [
+            {
+              "en": "Oscar Piastri",
+              "uk": "Оскар Піастрі"
+            },
+            {
+              "en": "Gabriel Bortoleto",
+              "uk": "Габріель Бортолето"
+            },
+            {
+              "en": "Liam Lawson",
+              "uk": "Ліам Лоусон"
+            },
+            {
+              "en": "Lando Norris",
+              "uk": "Ландо Норріс"
+            }
+          ],
+          "correct_index": 3,
+          "explanation": {
+            "en": "Already on his third battery pack of the season, he limped in after misfires and dead power — Monaco offered no escape.",
+            "uk": "Уже на третьому акумуляторі за сезон, він заїхав у бокси після перебоїв і втрати потужності — Монако не подарувало порятунку."
+          }
+        },
+        {
+          "id": "monaco-2026-mc-q05",
+          "text": {
+            "en": "Chaos erupted at the hairpin on the restart: one driver barged in, spun a Williams around, and pocketed a ten-second penalty. Who caused it?",
+            "uk": "На рестарті у шпильці спалахнув хаос: один пілот втиснувся, розвернув Williams і заробив десятисекундний штраф. Хто став призвідником?"
+          },
+          "options": [
+            {
+              "en": "Nico Hulkenberg",
+              "uk": "Ніко Гюлькенберг"
+            },
+            {
+              "en": "Franco Colapinto",
+              "uk": "Франко Колапінто"
+            },
+            {
+              "en": "Esteban Ocon",
+              "uk": "Естебан Окон"
+            },
+            {
+              "en": "Lance Stroll",
+              "uk": "Ленс Стролл"
+            }
+          ],
+          "correct_index": 0,
+          "explanation": {
+            "en": "He lunged down the inside of the tightest corner on the calendar, made contact, and the stewards had seen enough.",
+            "uk": "Він пірнув усередину найвужчого повороту календаря, влаштував контакт — і стюардам цього вистачило з головою."
+          }
+        },
+        {
+          "id": "monaco-2026-mc-q06",
+          "text": {
+            "en": "As the two McLarens squabbled over position at the start, one opportunist pounced at the exit of Ste Devote to steal a place. Which driver?",
+            "uk": "Поки два McLaren ділили позицію на старті, один спритник скористався моментом на виїзді зі Ste Devote й украв місце. Який пілот?"
+          },
+          "options": [
+            {
+              "en": "George Russell",
+              "uk": "Джордж Расселл"
+            },
+            {
+              "en": "Pierre Gasly",
+              "uk": "П'єр Гаслі"
+            },
+            {
+              "en": "Isack Hadjar",
+              "uk": "Ісак Аджар"
+            },
+            {
+              "en": "Liam Lawson",
+              "uk": "Ліам Лоусон"
+            }
+          ],
+          "correct_index": 1,
+          "explanation": {
+            "en": "A textbook seizing of the moment: while the papaya pair fought each other, he simply sailed on through.",
+            "uk": "Хрестоматійне відчуття моменту: поки «папайя»-дует з'ясовував стосунки, він просто спокійно прослизнув повз."
+          }
+        },
+        {
+          "id": "monaco-2026-mc-q07",
+          "text": {
+            "en": "The start unleashed friendly fire at Haas: one driver clouted his own teammate, mangled his front wing, and later retired. Which unlucky soul?",
+            "uk": "Старт спровокував «дружній вогонь» у Haas: один пілот зачепив власного напарника, понівечив переднє крило й згодом зійшов. Хто цей невдаха?"
+          },
+          "options": [
+            {
+              "en": "Esteban Ocon",
+              "uk": "Естебан Окон"
+            },
+            {
+              "en": "Liam Lawson",
+              "uk": "Ліам Лоусон"
+            },
+            {
+              "en": "Oliver Bearman",
+              "uk": "Олівер Бірман"
+            },
+            {
+              "en": "Arvid Lindblad",
+              "uk": "Арвід Ліндблад"
+            }
+          ],
+          "correct_index": 2,
+          "explanation": {
+            "en": "A new front wing bought him only minutes; the damage was done, and that debrief was always going to be tasty.",
+            "uk": "Нове переднє крило купило йому лише кілька хвилин: шкоду вже було завдано, а той розбір польотів обіцяв бути гарячим."
+          }
+        },
+        {
+          "id": "monaco-2026-mc-q08",
+          "text": {
+            "en": "Smoke curling from the front brakes told the story early: one car coughed its way into the garage and out of the race. Whose?",
+            "uk": "Дим, що зміївся з передніх гальм, усе сказав ще на початку: один болід, кашляючи, заїхав у бокси й вибув із гонки. Чий?"
+          },
+          "options": [
+            {
+              "en": "Valtteri Bottas",
+              "uk": "Валттері Боттас"
+            },
+            {
+              "en": "Sergio Perez",
+              "uk": "Серхіо Перес"
+            },
+            {
+              "en": "Carlos Sainz",
+              "uk": "Карлос Сайнс"
+            },
+            {
+              "en": "Gabriel Bortoleto",
+              "uk": "Габріель Бортолето"
+            }
+          ],
+          "correct_index": 0,
+          "explanation": {
+            "en": "He had been flagging smoking brakes for laps; in the end the Cadillac simply asked to be put out of its misery.",
+            "uk": "Він кілька кіл скаржився на димлячі гальма; зрештою Cadillac просто попросив, щоб його позбавили страждань."
+          }
+        },
+        {
+          "id": "monaco-2026-mc-q09",
+          "text": {
+            "en": "One driver lined up out of position on the grid — seemingly in someone else's box — and collected a drive-through before the race had even settled. Who?",
+            "uk": "Один пілот став не на своє місце на гріді — схоже, у чужий слот — і отримав drive-through ще до того, як гонка вгамувалася. Хто схибив?"
+          },
+          "options": [
+            {
+              "en": "Lance Stroll",
+              "uk": "Ленс Стролл"
+            },
+            {
+              "en": "Franco Colapinto",
+              "uk": "Франко Колапінто"
+            },
+            {
+              "en": "Nico Hulkenberg",
+              "uk": "Ніко Гюлькенберг"
+            },
+            {
+              "en": "Sergio Perez",
+              "uk": "Серхіо Перес"
+            }
+          ],
+          "correct_index": 3,
+          "explanation": {
+            "en": "Replays suggested he had parked in a rival's slot entirely — a needless own goal before a wheel was even turned in anger.",
+            "uk": "Повтори натякали, що він узагалі припаркувався в слоті суперника — безглуздий автогол ще до першої серйозної атаки."
+          }
+        },
+        {
+          "id": "monaco-2026-mc-q10",
+          "text": {
+            "en": "On these narrow streets one team played it cheeky, ordering a driver to back up the pack so his teammate could pit in clean air. Which team?",
+            "uk": "На цих вузьких вулицях одна команда зіграла хитро, наказавши пілоту притримати пелотон, щоб напарник міг чисто заїхати в бокси. Яка команда?"
+          },
+          "options": [
+            {
+              "en": "McLaren",
+              "uk": "McLaren"
+            },
+            {
+              "en": "Williams",
+              "uk": "Williams"
+            },
+            {
+              "en": "Ferrari",
+              "uk": "Ferrari"
+            },
+            {
+              "en": "Mercedes",
+              "uk": "Mercedes"
+            }
+          ],
+          "correct_index": 1,
+          "explanation": {
+            "en": "A rerun of last year's ploy — one car corked the field while the other dived in and emerged ahead of the queue.",
+            "uk": "Повторення торішнього трюку: один болід закоркував пелотон, поки інший пірнув у бокси й виїхав попереду черги."
+          }
+        },
+        {
+          "id": "monaco-2026-mc-q11",
+          "text": {
+            "en": "Forced to start from the pit lane after his Audi refused to fire up — and fresh off a qualifying shunt — which driver still salvaged his Sunday?",
+            "uk": "Змушений стартувати з піт-лейну після того, як Audi відмовилася заводитись — та ще й після суботньої аварії — який пілот усе ж урятував свою неділю?"
+          },
+          "options": [
+            {
+              "en": "Gabriel Bortoleto",
+              "uk": "Габріель Бортолето"
+            },
+            {
+              "en": "Nico Hulkenberg",
+              "uk": "Ніко Гюлькенберг"
+            },
+            {
+              "en": "Franco Colapinto",
+              "uk": "Франко Колапінто"
+            },
+            {
+              "en": "Valtteri Bottas",
+              "uk": "Валттері Боттас"
+            }
+          ],
+          "correct_index": 0,
+          "explanation": {
+            "en": "An early stop onto hards from the back turned a ruined weekend into a steady, sensible march up the order.",
+            "uk": "Рання зупинка на «хардах» із хвоста перетворила зіпсований вікенд на спокійне, розважливе просування вперед."
+          }
+        },
+        {
+          "id": "monaco-2026-mc-q12",
+          "text": {
+            "en": "While the whole grid lined up on mediums, one team rolled the dice and launched both of its cars on soft tyres instead. Which outfit gambled?",
+            "uk": "Поки весь грід вишикувався на «медіумах», одна команда пішла ва-банк і випустила обидва свої боліди на «софті». Яка команда ризикнула?"
+          },
+          "options": [
+            {
+              "en": "Alpine",
+              "uk": "Alpine"
+            },
+            {
+              "en": "Aston Martin",
+              "uk": "Aston Martin"
+            },
+            {
+              "en": "Cadillac",
+              "uk": "Cadillac"
+            },
+            {
+              "en": "Audi",
+              "uk": "Audi"
+            }
+          ],
+          "correct_index": 2,
+          "explanation": {
+            "en": "Both cars broke from the field on softs — a brave, eye-catching call that in the end brought them precisely nothing.",
+            "uk": "Обидва боліди відірвалися від решти гріду на «софті» — сміливий, помітний хід, що зрештою не приніс їм геть нічого."
+          }
+        },
+        {
+          "id": "monaco-2026-mc-q13",
+          "text": {
+            "en": "Even the runaway leader had a wobble, radioing that something felt weird with the engine up the hill — only to be quickly reassured. Who?",
+            "uk": "Навіть лідер-утікач пережив тривожну мить: повідомив по радіо, що з двигуном щось дивне на підйомі, та його швидко заспокоїли. Хто це?"
+          },
+          "options": [
+            {
+              "en": "Lewis Hamilton",
+              "uk": "Льюїс Гамільтон"
+            },
+            {
+              "en": "Charles Leclerc",
+              "uk": "Шарль Леклер"
+            },
+            {
+              "en": "George Russell",
+              "uk": "Джордж Расселл"
+            },
+            {
+              "en": "Kimi Antonelli",
+              "uk": "Кімі Антонеллі"
+            }
+          ],
+          "correct_index": 3,
+          "explanation": {
+            "en": "It was only a harmless de-rate; moments later he was banging in purple sectors as if nothing had happened.",
+            "uk": "Це був лише безпечний de-rate; за мить він уже вкручував фіолетові сектори, наче нічого й не сталося."
+          }
+        },
+        {
+          "id": "monaco-2026-mc-q14",
+          "text": {
+            "en": "Having edged pole by four-hundredths, Mercedes' teen prodigy became the youngest Monaco winner since a seven-time great. Who made it five straight?",
+            "uk": "Випередивши в поулі на чотири сотих, юний вундеркінд Mercedes став наймолодшим переможцем Монако з часів одного семиразового чемпіона. Хто оформив п'яту поспіль?"
+          },
+          "options": [
+            {
+              "en": "Kimi Antonelli",
+              "uk": "Кімі Антонеллі"
+            },
+            {
+              "en": "Lewis Hamilton",
+              "uk": "Льюїс Гамільтон"
+            },
+            {
+              "en": "Oscar Piastri",
+              "uk": "Оскар Піастрі"
+            },
+            {
+              "en": "Isack Hadjar",
+              "uk": "Ісак Аджар"
+            }
+          ],
+          "correct_index": 0,
+          "explanation": {
+            "en": "Pole, control from lights to flag, and ice-cold restarts — the kid simply cannot stop winning right now.",
+            "uk": "Поул, контроль від старту до фінішу й крижані рестарти — цей юнак зараз просто не вміє не перемагати."
+          }
+        },
+        {
+          "id": "monaco-2026-mc-q15",
+          "text": {
+            "en": "As the stewards rained penalties on the chaos ahead of him, one wily veteran quietly inherited the very last point. Which old hand cashed in?",
+            "uk": "Поки стюарди сипали штрафами на хаос попереду, один хитрий ветеран тихо успадкував найостанніше очко. Який досвідчений вовк скористався цим?"
+          },
+          "options": [
+            {
+              "en": "Sergio Perez",
+              "uk": "Серхіо Перес"
+            },
+            {
+              "en": "Fernando Alonso",
+              "uk": "Фернандо Алонсо"
+            },
+            {
+              "en": "Valtteri Bottas",
+              "uk": "Валттері Боттас"
+            },
+            {
+              "en": "Lance Stroll",
+              "uk": "Ленс Стролл"
+            }
+          ],
+          "correct_index": 1,
+          "explanation": {
+            "en": "While others kissed the walls and gathered steward seconds, he coolly pocketed the final point on offer.",
+            "uk": "Поки інші цілували стіни й збирали секунди від стюардів, він холоднокровно поклав у кишеню останнє доступне очко."
+          }
+        },
+        {
+          "id": "monaco-2026-mc-q16",
+          "text": {
+            "en": "His crash into the Antony Noghes barrier lit the fuse for the late drama — and he blamed engine 'push', not the crumbling track. Who?",
+            "uk": "Його аварія об відбійник на Antony Noghes підпалила гніт фінальної драми — а винив він «push» двигуна, а не трасу, що розсипалася. Хто це?"
+          },
+          "options": [
+            {
+              "en": "Lance Stroll",
+              "uk": "Ленс Стролл"
+            },
+            {
+              "en": "Charles Leclerc",
+              "uk": "Шарль Леклер"
+            },
+            {
+              "en": "Carlos Sainz",
+              "uk": "Карлос Сайнс"
+            },
+            {
+              "en": "Esteban Ocon",
+              "uk": "Естебан Окон"
+            }
+          ],
+          "correct_index": 0,
+          "explanation": {
+            "en": "His meeting with the wall forced the inspection that unravelled the whole finish — and he was adamant about the cause.",
+            "uk": "Його зустріч зі стіною спричинила огляд, що перевернув увесь фінал гонки — а щодо причини він був категоричним."
+          }
+        },
+        {
+          "id": "monaco-2026-mc-q17",
+          "text": {
+            "en": "With ten laps to run, out came the red flag. What had broken open on the track itself to halt the Monaco Grand Prix?",
+            "uk": "За десять кіл до фінішу з'явився червоний прапор. Що саме зруйнувалося на самій трасі, щоб зупинити Гран-прі Монако?"
+          },
+          "options": [
+            {
+              "en": "A stranded recovery crane",
+              "uk": "Застряглий евакуатор"
+            },
+            {
+              "en": "A sudden downpour",
+              "uk": "Раптова злива"
+            },
+            {
+              "en": "The asphalt cracking into a crater",
+              "uk": "Асфальт, що тріснув у кратер"
+            },
+            {
+              "en": "A barrier left ablaze",
+              "uk": "Палаючий відбійник"
+            }
+          ],
+          "correct_index": 2,
+          "explanation": {
+            "en": "A long crater had torn open in the surface, ringed with broken asphalt and marbles — far beyond a quick patch-up.",
+            "uk": "У покритті розверзся довгий кратер, оточений уламками асфальту й «марблз» — це було годі залатати нашвидкуруч."
+          }
+        },
+        {
+          "id": "monaco-2026-mc-q18",
+          "text": {
+            "en": "He carried a pit-lane speeding penalty for laps, yet timed it so shrewdly behind a teammate that it cost him almost nothing. Who?",
+            "uk": "Він кілька кіл віз на собі штраф за швидкість у боксах, та відбув його так хитро за напарником, що втратив майже нічого. Хто це?"
+          },
+          "options": [
+            {
+              "en": "George Russell",
+              "uk": "Джордж Расселл"
+            },
+            {
+              "en": "Oscar Piastri",
+              "uk": "Оскар Піастрі"
+            },
+            {
+              "en": "Pierre Gasly",
+              "uk": "П'єр Гаслі"
+            },
+            {
+              "en": "Lewis Hamilton",
+              "uk": "Льюїс Гамільтон"
+            }
+          ],
+          "correct_index": 3,
+          "explanation": {
+            "en": "With a teammate destined to sit behind him anyway, he served the time for next to no cost at all.",
+            "uk": "Маючи напарника, який однаково мав їхати позаду, він відбув свої секунди фактично задарма."
+          }
+        },
+        {
+          "id": "monaco-2026-mc-q19",
+          "text": {
+            "en": "After yet another faultless Sunday, one driver stretched clear at the very top of the standings on 156 points. Who holds that lead?",
+            "uk": "Після ще однієї бездоганної неділі один пілот відірвався на самій вершині залікової таблиці — 156 очок. Хто очолює перегони?"
+          },
+          "options": [
+            {
+              "en": "Kimi Antonelli",
+              "uk": "Кімі Антонеллі"
+            },
+            {
+              "en": "Lewis Hamilton",
+              "uk": "Льюїс Гамільтон"
+            },
+            {
+              "en": "George Russell",
+              "uk": "Джордж Расселл"
+            },
+            {
+              "en": "Max Verstappen",
+              "uk": "Макс Ферстаппен"
+            }
+          ],
+          "correct_index": 0,
+          "explanation": {
+            "en": "His rivals are now scrapping over the scraps behind him, with daylight opening up at the head of the table.",
+            "uk": "Суперники тепер гризуться за крихти позаду, а на чолі таблиці перед ним розкривається дедалі більший просвіт."
+          }
+        },
+        {
+          "id": "monaco-2026-mc-q20",
+          "text": {
+            "en": "Twice on the restarts he was the unlucky punchbag — spun, then tagged again — until his battered Williams finally bowed out. Who?",
+            "uk": "Двічі на рестартах він був безталанною «грушею» — спершу розворот, потім ще один тичок — аж поки понівечений Williams таки зійшов. Хто це?"
+          },
+          "options": [
+            {
+              "en": "Alex Albon",
+              "uk": "Алекс Албон"
+            },
+            {
+              "en": "Carlos Sainz",
+              "uk": "Карлос Сайнс"
+            },
+            {
+              "en": "Lance Stroll",
+              "uk": "Ленс Стролл"
+            },
+            {
+              "en": "Esteban Ocon",
+              "uk": "Естебан Окон"
+            }
+          ],
+          "correct_index": 1,
+          "explanation": {
+            "en": "First spun at the hairpin, then tapped into a pirouette at Portier — two restart incidents were one too many.",
+            "uk": "Спершу розворот у шпильці, потім пірует у Portier — двох інцидентів на рестартах виявилося забагато."
+          }
+        }
+      ]
+    },
+    {
+      "id": "monaco-2026-tf",
+      "category_id": "2026",
+      "title": {
+        "en": "Monaco Grand Prix 2026",
+        "uk": "Гран-прі Монако 2026"
+      },
+      "type": "true_false",
+      "created_at": "2026-06-07T00:00:00Z",
+      "questions": [
+        {
+          "id": "monaco-2026-tf-q21",
+          "text": {
+            "en": "Lewis Hamilton finally claimed his first Grand Prix victory for Ferrari on the streets of Monaco.",
+            "uk": "Льюїс Гамільтон нарешті здобув свою першу перемогу за Ferrari на вулицях Монако."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "He chased hard but had to settle for second — his second podium of the year, not the breakthrough win.",
+            "uk": "Він гнався щосили, та мусив вдовольнитися другим місцем — другим подіумом сезону, а не довгоочікуваною перемогою."
+          }
+        },
+        {
+          "id": "monaco-2026-tf-q22",
+          "text": {
+            "en": "Liam Lawson rolled out onto the grid with no trouble at all before the start.",
+            "uk": "Ліам Лоусон без жодних проблем викотився на грід перед стартом."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "A 'car systems issue' nearly kept him in the garage entirely — yet he recovered to bag a fine haul of points.",
+            "uk": "«Проблема із системами боліда» мало не лишила його в боксах узагалі — та він відігрався й узяв чималий врожай очок."
+          }
+        },
+        {
+          "id": "monaco-2026-tf-q23",
+          "text": {
+            "en": "Pierre Gasly's two pit-lane speeding penalties were later overturned on appeal.",
+            "uk": "Два штрафи П'єра Гаслі за швидкість на піт-лейні згодом скасували через апеляцію."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "His team argued the case and got the seconds wiped — a reprieve that completely reshaped his afternoon.",
+            "uk": "Команда відстояла справу й змусила стерти ті секунди — помилування, що повністю переписало його день."
+          }
+        },
+        {
+          "id": "monaco-2026-tf-q24",
+          "text": {
+            "en": "Isack Hadjar sailed through the race with no scrutiny whatsoever over his podium place.",
+            "uk": "Ісак Аджар пройшов гонку без жодних питань до свого подіумного місця."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "Far from it — he was put under the microscope for a red-flag infringement that left his podium hanging in the balance.",
+            "uk": "Аж ніяк — його взяли під лупу за порушення під червоним прапором, через що подіум повис на волосині."
+          }
+        },
+        {
+          "id": "monaco-2026-tf-q25",
+          "text": {
+            "en": "Pierre Gasly managed to collect a second penalty before he had even served his first.",
+            "uk": "П'єр Гаслі примудрився отримати другий штраф ще до того, як відбув перший."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "Two speeding penalties stacked back to back in the pits — a thriller his team would only untangle afterward.",
+            "uk": "Два штрафи за швидкість поспіль у боксах — трилер, який команда розплутала лише згодом."
+          }
+        },
+        {
+          "id": "monaco-2026-tf-q26",
+          "text": {
+            "en": "A whole rash of pit-lane speeding penalties broke out, with one team suspecting a technical fault behind it.",
+            "uk": "Спалахнула ціла хвиля штрафів за швидкість на піт-лейні, і одна команда запідозрила за цим технічну ваду."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "Driver after driver got pinged in the pits, until a team began muttering that the gremlin might be mechanical.",
+            "uk": "Пілота за пілотом ловили в боксах, аж поки в одній команді не почали бурчати, що причина може бути технічною."
+          }
+        },
+        {
+          "id": "monaco-2026-tf-q27",
+          "text": {
+            "en": "Oscar Piastri was the only frontrunner to dodge a pit-lane speeding penalty all afternoon.",
+            "uk": "Оскар Піастрі був єдиним із лідерів, хто за весь день уник штрафу за швидкість на піт-лейні."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "He was right there in the naughty corner too — one of several pinged for speeding through the pit lane.",
+            "uk": "Він теж опинився серед порушників — один із кількох, кого спіймали на швидкості в піт-лейні."
+          }
+        },
+        {
+          "id": "monaco-2026-tf-q28",
+          "text": {
+            "en": "Cadillac finally opened their points account thanks to Sergio Perez at Monaco.",
+            "uk": "Cadillac нарешті відкрив свій заліковий рахунок завдяки Серхіо Пересу в Монако."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "It slipped away — a grid-position penalty undid the chance, and the last point went to a veteran instead.",
+            "uk": "Усе вислизнуло — штраф за позицію на гріді перекреслив шанс, а останнє очко дісталося натомість ветерану."
+          }
+        },
+        {
+          "id": "monaco-2026-tf-q29",
+          "text": {
+            "en": "Antonelli was reminded over the radio that there are no points for fastest lap these days.",
+            "uk": "Антонеллі нагадали по радіо, що нині за найшвидше коло очок уже не дають."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "He banged in a purple sector out front, and his engineer gently pointed out it earned him nothing extra.",
+            "uk": "Він вкрутив фіолетовий сектор попереду всіх, а інженер делікатно зауважив, що нічого додаткового це не дає."
+          }
+        },
+        {
+          "id": "monaco-2026-tf-q30",
+          "text": {
+            "en": "After Monaco, George Russell sits comfortably ahead of Lewis Hamilton in the drivers' standings.",
+            "uk": "Після Монако Джордж Расселл упевнено випереджає Льюїса Гамільтона в заліку пілотів."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "The other way round — Hamilton's second place nudged him just clear of his old teammate in the table.",
+            "uk": "Усе навпаки — друге місце вивело Гамільтона трохи вперед від колишнього напарника в таблиці."
+          }
+        },
+        {
+          "id": "monaco-2026-tf-q31",
+          "text": {
+            "en": "Both Stroll and Leclerc blamed engine 'push' rather than the breaking track for their crashes.",
+            "uk": "І Стролл, і Леклер винили в своїх аваріях «push» двигуна, а не трасу, що руйнувалася."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "Each insisted the power unit shoved them under braking, even as the surface around them was falling apart.",
+            "uk": "Кожен наполягав, що силова установка штовхнула його під гальмування, навіть коли покриття довкола розвалювалося."
+          }
+        },
+        {
+          "id": "monaco-2026-tf-q32",
+          "text": {
+            "en": "After the appeal, Gasly was lifted onto the podium and Hadjar dropped to fourth.",
+            "uk": "Після апеляції Гаслі піднявся на подіум, а Аджар опустився на четверте місце."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "Wiping those two penalties hauled the Frenchman up to third, and the young Red Bull driver shuffled back behind him.",
+            "uk": "Скасування тих двох штрафів підняло француза на третє, а молодий пілот Red Bull посунувся назад услід за ним."
+          }
+        },
+        {
+          "id": "monaco-2026-tf-q33",
+          "text": {
+            "en": "George Russell finished the race on the lead lap, never once lapped by anybody.",
+            "uk": "Джордж Расселл завершив гонку на головному колі, жодного разу нікому не поступившись колом."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "Humbling stuff — his own teammate lapped him, forcing him to stack meekly behind the leader.",
+            "uk": "Прикра картина — власний напарник обігнав його на коло, і йому довелося покірно стати позаду лідера."
+          }
+        },
+        {
+          "id": "monaco-2026-tf-q34",
+          "text": {
+            "en": "Isack Hadjar was a model of calm on the radio throughout the afternoon.",
+            "uk": "Ісак Аджар був взірцем спокою в радіоефірі впродовж усього дня."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "Hardly — between 'something's going to explode' and 'look faster', he was the moaniest voice out there.",
+            "uk": "Аж ніяк — між «щось зараз вибухне» і «шукайте швидше» він був найбуркотливішим голосом ефіру."
+          }
+        },
+        {
+          "id": "monaco-2026-tf-q35",
+          "text": {
+            "en": "Antonelli described his winning car as 'a peach' over the team radio.",
+            "uk": "Антонеллі назвав свій переможний болід «персиком» у радіоефірі команди."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "A sweet verdict on a flawless day — though plenty thought they'd misheard the word at first.",
+            "uk": "Солодкий вердикт для бездоганного дня — хоча багато хто спершу думав, що недочув це слово."
+          }
+        },
+        {
+          "id": "monaco-2026-tf-q36",
+          "text": {
+            "en": "As Verstappen sat stranded at the start, his crew simply told him to 'bring it home'.",
+            "uk": "Поки Ферстаппен стояв безпорадний на старті, команда просто сказала йому «довези його до фінішу»."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "A surreal exchange — 'What can I do?' he asked, with a stricken car that was going precisely nowhere.",
+            "uk": "Сюрреалістичний діалог — «Що мені робити?» — спитав він біля боліда, що не їхав узагалі нікуди."
+          }
+        },
+        {
+          "id": "monaco-2026-tf-q37",
+          "text": {
+            "en": "The safety car was scrambled more than once over the course of the Monaco Grand Prix.",
+            "uk": "Сейфті-кар викликали більш ніж раз упродовж Гран-прі Монако."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "Bernd Maylander was kept busy — Monaco served up enough barriers and debris to need him repeatedly.",
+            "uk": "Бернд Майландер не сидів без діла — Монако підкинуло доволі відбійників і уламків, щоб кликати його неодноразово."
+          }
+        },
+        {
+          "id": "monaco-2026-tf-q38",
+          "text": {
+            "en": "The race resumed with a standing restart after the red-flag stoppage.",
+            "uk": "Гонка відновилася зі стоячого рестарту після зупинки червоним прапором."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "Field reformed, lapped cars released first, then everyone lined up for a tense standing getaway.",
+            "uk": "Пелотон перешикувався, відстаючих відпустили першими, а далі всі вишикувалися на нервовий стоячий старт."
+          }
+        },
+        {
+          "id": "monaco-2026-tf-q39",
+          "text": {
+            "en": "Monaco marked Lando Norris's first non-finish after several clean rounds before it.",
+            "uk": "Монако стало першим сходом Ландо Норріса після кількох чистих етапів перед тим."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "Quite the opposite — it capped a miserable streak, with trouble already striking him at the previous rounds.",
+            "uk": "Якраз навпаки — це увінчало жалюгідну серію, адже проблеми наздогнали його ще на попередніх етапах."
+          }
+        },
+        {
+          "id": "monaco-2026-tf-q40",
+          "text": {
+            "en": "Kimi Antonelli won from pole and led for almost the entire Monaco Grand Prix.",
+            "uk": "Кімі Антонеллі переміг зі стартового поулу й лідирував майже всю дистанцію Гран-прі Монако."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "Front to back he was untouchable, soaking up every restart to seal a fifth win on the bounce.",
+            "uk": "Від старту до фінішу він був недосяжним, витримавши кожен рестарт заради п'ятої перемоги поспіль."
           }
         }
       ]
