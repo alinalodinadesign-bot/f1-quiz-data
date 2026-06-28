@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updated_at": "2026-06-26T13:24:09Z",
+  "version": 3,
+  "updated_at": "2026-06-28T00:00:00Z",
   "languages": [
     "en",
     "uk"
@@ -1771,6 +1771,870 @@
           "explanation": {
             "en": "Front to back he was untouchable, soaking up every restart to seal a fifth win on the bounce.",
             "uk": "Від старту до фінішу він був недосяжним, витримавши кожен рестарт заради п'ятої перемоги поспіль."
+          }
+        }
+      ]
+    },
+    {
+      "id": "austria-2026-mc",
+      "category_id": "2026",
+      "title": {
+        "en": "Austrian Grand Prix 2026",
+        "uk": "Гран-прі Австрії 2026"
+      },
+      "type": "multiple_choice",
+      "created_at": "2026-06-28T00:00:00Z",
+      "questions": [
+        {
+          "id": "austria-2026-mc-q01",
+          "text": {
+            "en": "From pole to flag he controlled the Austrian Grand Prix, taking his first win since the season opener. Who?",
+            "uk": "Він вів Гран-прі Австрії від поулу до фінішу — і взяв першу перемогу від початку сезону. Хто це?"
+          },
+          "options": [
+            {
+              "en": "Lewis Hamilton",
+              "uk": "Льюїс Гамільтон"
+            },
+            {
+              "en": "Max Verstappen",
+              "uk": "Макс Ферстаппен"
+            },
+            {
+              "en": "Charles Leclerc",
+              "uk": "Шарль Леклер"
+            },
+            {
+              "en": "George Russell",
+              "uk": "Джордж Расселл"
+            }
+          ],
+          "correct_index": 3,
+          "explanation": {
+            "en": "Smooth off the line, untouchable out front — his first Sunday win since he opened the season in Melbourne.",
+            "uk": "Чистий старт, недосяжний попереду — перша недільна перемога від самого відкриття сезону в Мельбурні."
+          }
+        },
+        {
+          "id": "austria-2026-mc-q02",
+          "text": {
+            "en": "Fifth on the grid after a qualifying crash, he stormed back to a season-best second and chased the winner home. Who?",
+            "uk": "П'ятий на старті після аварії в кваліфікації, він прорвався на друге місце — найкраще в сезоні — і тиснув на лідера до фінішу. Хто?"
+          },
+          "options": [
+            {
+              "en": "Max Verstappen",
+              "uk": "Макс Ферстаппен"
+            },
+            {
+              "en": "Lewis Hamilton",
+              "uk": "Льюїс Гамільтон"
+            },
+            {
+              "en": "Oscar Piastri",
+              "uk": "Оскар Піастрі"
+            },
+            {
+              "en": "Isack Hadjar",
+              "uk": "Ісак Аджар"
+            }
+          ],
+          "correct_index": 0,
+          "explanation": {
+            "en": "From the gravel in qualifying to second on Sunday — a season-best drive, harrying Russell all the way home.",
+            "uk": "Від гравію в кваліфікації до другого місця в неділю — найкращий заїзд сезону, з тиском на Расселла до фінішу."
+          }
+        },
+        {
+          "id": "austria-2026-mc-q03",
+          "text": {
+            "en": "After a scruffy, error-strewn start dropped him back, he fought back to the podium and almost grabbed second at the flag. Who?",
+            "uk": "Після брудного старту з помилками він відкотився назад, та все одно повернувся на подіум і ледь не забрав друге місце. Хто?"
+          },
+          "options": [
+            {
+              "en": "Charles Leclerc",
+              "uk": "Шарль Леклер"
+            },
+            {
+              "en": "Lando Norris",
+              "uk": "Ландо Норріс"
+            },
+            {
+              "en": "Kimi Antonelli",
+              "uk": "Кімі Антонеллі"
+            },
+            {
+              "en": "Oscar Piastri",
+              "uk": "Оскар Піастрі"
+            }
+          ],
+          "correct_index": 2,
+          "explanation": {
+            "en": "Wide at Turn 1, wide at Turn 3, stuck behind Leclerc — yet he clawed back and almost stole second at the line.",
+            "uk": "Широко в першому повороті, широко в третьому, застряг за Леклером — та він відігрався й мало не вкрав друге на фініші."
+          }
+        },
+        {
+          "id": "austria-2026-mc-q04",
+          "text": {
+            "en": "Verstappen went wheel-to-wheel for second with an old rival, got shoved onto the gravel, and demanded a penalty that never came. Who?",
+            "uk": "Ферстаппен бився колесо в колесо за друге місце зі старим суперником, вилетів на гравій і вимагав штрафу, якого так і не дали. Хто?"
+          },
+          "options": [
+            {
+              "en": "Charles Leclerc",
+              "uk": "Шарль Леклер"
+            },
+            {
+              "en": "George Russell",
+              "uk": "Джордж Расселл"
+            },
+            {
+              "en": "Kimi Antonelli",
+              "uk": "Кімі Антонеллі"
+            },
+            {
+              "en": "Lewis Hamilton",
+              "uk": "Льюїс Гамільтон"
+            }
+          ],
+          "correct_index": 3,
+          "explanation": {
+            "en": "Old foes, fresh fire — they traded Turns 3, 5 and 6, Max ended up on the grass and wanted blood from the stewards.",
+            "uk": "Старі вороги, новий вогонь — мінялися в поворотах 3, 5 і 6, Макс опинився на траві й вимагав крові від стюардів."
+          }
+        },
+        {
+          "id": "austria-2026-mc-q05",
+          "text": {
+            "en": "Strong on the grid yet hopeless on strategy, which team threw away a likely podium with an extra stop onto softs?",
+            "uk": "Сильна на старті, але безнадійна в стратегії — яка команда змарнувала ймовірний подіум зайвим піт-стопом на «софт»?"
+          },
+          "options": [
+            {
+              "en": "McLaren",
+              "uk": "McLaren"
+            },
+            {
+              "en": "Ferrari",
+              "uk": "Ferrari"
+            },
+            {
+              "en": "Red Bull",
+              "uk": "Red Bull"
+            },
+            {
+              "en": "Mercedes",
+              "uk": "Mercedes"
+            }
+          ],
+          "correct_index": 1,
+          "explanation": {
+            "en": "Front row to nowhere — an extra stop and a doomed soft gamble turned strong pace into another strategy faceplant.",
+            "uk": "Із першого ряду в нікуди — зайвий піт-стоп і провальна ставка на «софт» перетворили темп на черговий стратегічний провал."
+          }
+        },
+        {
+          "id": "austria-2026-mc-q06",
+          "text": {
+            "en": "Starting front-row, he watched his race rot on dead tyres — three stops, two late overtakes, and an X-rated radio rant. Who slumped to eighth?",
+            "uk": "Стартував із першого ряду, але його гонка розсипалася на мертвих шинах — три піт-стопи, два обгони й лайка по радіо. Хто скотився на восьме?"
+          },
+          "options": [
+            {
+              "en": "Charles Leclerc",
+              "uk": "Шарль Леклер"
+            },
+            {
+              "en": "Carlos Sainz",
+              "uk": "Карлос Сайнс"
+            },
+            {
+              "en": "Lewis Hamilton",
+              "uk": "Льюїс Гамільтон"
+            },
+            {
+              "en": "Lando Norris",
+              "uk": "Ландо Норріс"
+            }
+          ],
+          "correct_index": 0,
+          "explanation": {
+            "en": "From the front row to a furious eighth — three stops, a soft-tyre gamble gone wrong, Ferrari strategy striking again.",
+            "uk": "Із першого ряду на люте восьме — три піт-стопи, провальна ставка на «софт» і знову стратегія Ferrari в усій красі."
+          }
+        },
+        {
+          "id": "austria-2026-mc-q07",
+          "text": {
+            "en": "No strangers to smoke and flames all year, which team again saw both its cars retire early in Austria?",
+            "uk": "Дим і вогонь для них не новина весь сезон — чиї два боліди знову зійшли рано в Австрії?"
+          },
+          "options": [
+            {
+              "en": "Alpine",
+              "uk": "Alpine"
+            },
+            {
+              "en": "Haas",
+              "uk": "Haas"
+            },
+            {
+              "en": "Cadillac",
+              "uk": "Cadillac"
+            },
+            {
+              "en": "Audi",
+              "uk": "Audi"
+            }
+          ],
+          "correct_index": 2,
+          "explanation": {
+            "en": "Floors ablaze in practice, brakes cooked in the race — both cars gone early, another chapter in a smoking-hot season.",
+            "uk": "Палаючі підлоги на практиці, спалені гальма в гонці — обидва боліди зійшли рано, ще одна глава димного сезону."
+          }
+        },
+        {
+          "id": "austria-2026-mc-q08",
+          "text": {
+            "en": "Quietly impressive once more, he hunted down and passed a struggling Ferrari late on to bank a solid sixth. Who?",
+            "uk": "Знову тихо сильний, він наприкінці догнав і обійшов Ferrari, що мучився, аби взяти впевнене шосте місце. Хто?"
+          },
+          "options": [
+            {
+              "en": "Liam Lawson",
+              "uk": "Ліам Лоусон"
+            },
+            {
+              "en": "Lando Norris",
+              "uk": "Ландо Норріс"
+            },
+            {
+              "en": "Isack Hadjar",
+              "uk": "Ісак Аджар"
+            },
+            {
+              "en": "Oscar Piastri",
+              "uk": "Оскар Піастрі"
+            }
+          ],
+          "correct_index": 2,
+          "explanation": {
+            "en": "No fuss, just results — he reeled in a wounded Ferrari and banked sixth, the quiet star of the day.",
+            "uk": "Без галасу, лише результат — він дотиснув поранений Ferrari й узяв шосте, тихий герой дня."
+          }
+        },
+        {
+          "id": "austria-2026-mc-q09",
+          "text": {
+            "en": "He beat his own teammate to finish as the leading McLaren, just behind the fight for the podium places. Who?",
+            "uk": "Він переграв напарника й став першим McLaren на фініші — одразу за бійкою за подіум. Хто?"
+          },
+          "options": [
+            {
+              "en": "Lando Norris",
+              "uk": "Ландо Норріс"
+            },
+            {
+              "en": "Lewis Hamilton",
+              "uk": "Льюїс Гамільтон"
+            },
+            {
+              "en": "Isack Hadjar",
+              "uk": "Ісак Аджар"
+            },
+            {
+              "en": "Oscar Piastri",
+              "uk": "Оскар Піастрі"
+            }
+          ],
+          "correct_index": 3,
+          "explanation": {
+            "en": "Best of the papaya pair, clear of his teammate, parked just outside the podium scrap in fourth.",
+            "uk": "Кращий із «папайя»-дуету, попереду напарника, зупинився одразу за бійкою за подіум — четвертим."
+          }
+        },
+        {
+          "id": "austria-2026-mc-q10",
+          "text": {
+            "en": "With a quick car under him he underdelivered all day, salvaging only seventh and slipping behind his teammate. Who?",
+            "uk": "Маючи швидкий болід, він провалив увесь день — лише сьоме місце, та ще й позаду напарника. Хто?"
+          },
+          "options": [
+            {
+              "en": "Isack Hadjar",
+              "uk": "Ісак Аджар"
+            },
+            {
+              "en": "Lando Norris",
+              "uk": "Ландо Норріс"
+            },
+            {
+              "en": "Liam Lawson",
+              "uk": "Ліам Лоусон"
+            },
+            {
+              "en": "Oscar Piastri",
+              "uk": "Оскар Піастрі"
+            }
+          ],
+          "correct_index": 1,
+          "explanation": {
+            "en": "A fast McLaren, a flat afternoon — only seventh, and beaten by his own teammate to add insult to injury.",
+            "uk": "Швидкий McLaren, прісний день — лише сьоме, та ще й програв напарнику на додачу."
+          }
+        },
+        {
+          "id": "austria-2026-mc-q11",
+          "text": {
+            "en": "He reported fire on his car mid-race but kept going, holding on for Racing Bulls points despite losing a spot. Who?",
+            "uk": "Посеред гонки він сказав, що болід горить, але не зупинився — і втримав очки для Racing Bulls, хоч і втратив позицію. Хто?"
+          },
+          "options": [
+            {
+              "en": "Arvid Lindblad",
+              "uk": "Арвід Ліндблад"
+            },
+            {
+              "en": "Liam Lawson",
+              "uk": "Ліам Лоусон"
+            },
+            {
+              "en": "Pierre Gasly",
+              "uk": "П'єр Гаслі"
+            },
+            {
+              "en": "Oliver Bearman",
+              "uk": "Олівер Бірман"
+            }
+          ],
+          "correct_index": 1,
+          "explanation": {
+            "en": "Flames on board and he just kept driving — points secured for Racing Bulls, even after slipping a place.",
+            "uk": "Вогонь на борту, а він просто їхав далі — очки для Racing Bulls здобуто, хоч і з втратою позиції."
+          }
+        },
+        {
+          "id": "austria-2026-mc-q12",
+          "text": {
+            "en": "Williams' brutal season rolled on as this driver once again failed to bring his car to the finish. Who?",
+            "uk": "Жорсткий сезон Williams тривав — цей пілот знову не довіз свій болід до фінішу. Хто?"
+          },
+          "options": [
+            {
+              "en": "Alex Albon",
+              "uk": "Алекс Албон"
+            },
+            {
+              "en": "Carlos Sainz",
+              "uk": "Карлос Сайнс"
+            },
+            {
+              "en": "Lance Stroll",
+              "uk": "Ленс Стролл"
+            },
+            {
+              "en": "Valtteri Bottas",
+              "uk": "Валттері Боттас"
+            }
+          ],
+          "correct_index": 1,
+          "explanation": {
+            "en": "Another weekend, another non-finish — Williams' grim 2026 rolls on with the Spaniard parked early.",
+            "uk": "Чергові вихідні, черговий схід — похмурий 2026-й Williams триває, іспанець зупинився рано."
+          }
+        },
+        {
+          "id": "austria-2026-mc-q13",
+          "text": {
+            "en": "He collected a five-second penalty along the way and came home classified dead last, in eighteenth. Who?",
+            "uk": "Дорогою він спіймав п'ять секунд штрафу і фінішував останнім із класифікованих — вісімнадцятим. Хто?"
+          },
+          "options": [
+            {
+              "en": "Lance Stroll",
+              "uk": "Ленс Стролл"
+            },
+            {
+              "en": "Esteban Ocon",
+              "uk": "Естебан Окон"
+            },
+            {
+              "en": "Fernando Alonso",
+              "uk": "Фернандо Алонсо"
+            },
+            {
+              "en": "Alex Albon",
+              "uk": "Алекс Албон"
+            }
+          ],
+          "correct_index": 2,
+          "explanation": {
+            "en": "Five seconds added, last man classified — even the veteran's craft couldn't lift Aston Martin off the floor.",
+            "uk": "Плюс п'ять секунд, останній класифікований — навіть майстерність ветерана не підняла Aston Martin із дна."
+          }
+        },
+        {
+          "id": "austria-2026-mc-q14",
+          "text": {
+            "en": "With the lead in play, which team blundered by keeping its driver out five extra laps, handing the win to fresher tyres?",
+            "uk": "Лідерство було на кону — яка команда схибила, протримавши пілота зайві п'ять кіл і віддавши перемогу свіжішим шинам?"
+          },
+          "options": [
+            {
+              "en": "Ferrari",
+              "uk": "Ferrari"
+            },
+            {
+              "en": "Mercedes",
+              "uk": "Mercedes"
+            },
+            {
+              "en": "Red Bull",
+              "uk": "Red Bull"
+            },
+            {
+              "en": "McLaren",
+              "uk": "McLaren"
+            }
+          ],
+          "correct_index": 2,
+          "explanation": {
+            "en": "Two seconds from the lead, then five laps too long in clean air — they handed Russell the win on a plate.",
+            "uk": "Дві секунди від лідера, та п'ять кіл зайвих на чистій трасі — і вони піднесли Расселлу перемогу на тарілці."
+          }
+        },
+        {
+          "id": "austria-2026-mc-q15",
+          "text": {
+            "en": "He lost this race to his own teammate, yet still sits clear at the top of the championship afterwards. Who?",
+            "uk": "Цю гонку він програв власному напарнику, але все одно впевнено очолює чемпіонат. Хто?"
+          },
+          "options": [
+            {
+              "en": "George Russell",
+              "uk": "Джордж Расселл"
+            },
+            {
+              "en": "Max Verstappen",
+              "uk": "Макс Ферстаппен"
+            },
+            {
+              "en": "Lewis Hamilton",
+              "uk": "Льюїс Гамільтон"
+            },
+            {
+              "en": "Kimi Antonelli",
+              "uk": "Кімі Антонеллі"
+            }
+          ],
+          "correct_index": 3,
+          "explanation": {
+            "en": "Beaten by his teammate on the day, but still 40 points clear at the summit — the rookie's lead barely flinched.",
+            "uk": "Програв напарнику цього дня, але все ще на 40 очок попереду — відрив новачка майже не здригнувся."
+          }
+        },
+        {
+          "id": "austria-2026-mc-q16",
+          "text": {
+            "en": "A day after missing the Q3 cut by four-hundredths, he could only drag his Alpine home outside the points. Who?",
+            "uk": "За день до того він недотягнув до Q3 чотири сотих — а тепер ледь довіз свій Alpine до фінішу поза очками. Хто?"
+          },
+          "options": [
+            {
+              "en": "Gabriel Bortoleto",
+              "uk": "Габріель Бортолето"
+            },
+            {
+              "en": "Pierre Gasly",
+              "uk": "П'єр Гаслі"
+            },
+            {
+              "en": "Nico Hulkenberg",
+              "uk": "Ніко Гюлькенберг"
+            },
+            {
+              "en": "Esteban Ocon",
+              "uk": "Естебан Окон"
+            }
+          ],
+          "correct_index": 1,
+          "explanation": {
+            "en": "Four-hundredths from Q3 on Saturday, nowhere near the points on Sunday — Alpine's weekend to forget.",
+            "uk": "Чотири сотих від Q3 у суботу, і близько не очки в неділю — вихідні Alpine, які краще забути."
+          }
+        },
+        {
+          "id": "austria-2026-mc-q17",
+          "text": {
+            "en": "In a chaotic Austrian qualifying, Mercedes kept the radio blunt as Russell chased pole. Which Toto Wolff line came before his pole lap?",
+            "uk": "У хаотичній кваліфікації в Австрії Mercedes говорили по радіо коротко, поки Расселл ішов за поулом. Яка фраза Тото Вольффа пролунала перед поул-колом?"
+          },
+          "options": [
+            {
+              "en": "Send it now",
+              "uk": "Send it now"
+            },
+            {
+              "en": "George, just drive",
+              "uk": "George, just drive"
+            },
+            {
+              "en": "Bring us pole",
+              "uk": "Bring us pole"
+            },
+            {
+              "en": "Eyes up, push",
+              "uk": "Eyes up, push"
+            }
+          ],
+          "correct_index": 1,
+          "explanation": {
+            "en": "No pep talk, no data — just three blunt words from Wolff before the lap that took pole in Austria.",
+            "uk": "Жодних настанов, жодних даних — лише три різких слова від Вольффа перед колом, що принесло поул."
+          }
+        },
+        {
+          "id": "austria-2026-mc-q18",
+          "text": {
+            "en": "In Austrian qualifying one title contender lost the rear at Turn 9 on his last run and hit the wall — but still started fifth. Who?",
+            "uk": "У кваліфікації в Австрії один претендент на титул зірвав задню вісь у повороті 9 на останньому колі й влетів у стіну — та стартував п'ятим. Хто?"
+          },
+          "options": [
+            {
+              "en": "Lewis Hamilton",
+              "uk": "Льюїс Гамільтон"
+            },
+            {
+              "en": "Charles Leclerc",
+              "uk": "Шарль Леклер"
+            },
+            {
+              "en": "Max Verstappen",
+              "uk": "Макс Ферстаппен"
+            },
+            {
+              "en": "Lando Norris",
+              "uk": "Ландо Норріс"
+            }
+          ],
+          "correct_index": 2,
+          "explanation": {
+            "en": "Quickest in sector two, then gone — the rear let go at Turn 9 and fired him into the wall. Fifth it was.",
+            "uk": "Найшвидший у другому секторі — і все: задок зірвало в повороті 9 й кинуло в стіну. Лишилося п'яте."
+          }
+        },
+        {
+          "id": "austria-2026-mc-q19",
+          "text": {
+            "en": "In the late qualifying chaos one driver took a single yellow for a double and bailed on a lap that could have put him on the front row. Who?",
+            "uk": "У фінальному хаосі кваліфікації один пілот сплутав одинарний жовтий із подвійним і кинув коло, яке могло вивести його в перший ряд. Хто?"
+          },
+          "options": [
+            {
+              "en": "Kimi Antonelli",
+              "uk": "Кімі Антонеллі"
+            },
+            {
+              "en": "George Russell",
+              "uk": "Джордж Расселл"
+            },
+            {
+              "en": "Oscar Piastri",
+              "uk": "Оскар Піастрі"
+            },
+            {
+              "en": "Lando Norris",
+              "uk": "Ландо Норріс"
+            }
+          ],
+          "correct_index": 0,
+          "explanation": {
+            "en": "'I thought it was a double yellow, so I aborted' — one panicked lift that cost him a likely front row.",
+            "uk": "«Я думав, це подвійний жовтий, тому скасував» — одне панічне гальмування, що коштувало йому першого ряду."
+          }
+        },
+        {
+          "id": "austria-2026-mc-q20",
+          "text": {
+            "en": "The Red Bull Ring's opening corners are infamous for chaos — so how many cars were wiped out in first-lap incidents this time?",
+            "uk": "Перші повороти Ред Булл Рингу славляться хаосом — то скільки болідів вибуло в інцидентах на першому колі цього разу?"
+          },
+          "options": [
+            {
+              "en": "None",
+              "uk": "Жодного"
+            },
+            {
+              "en": "Two",
+              "uk": "Два"
+            },
+            {
+              "en": "Three",
+              "uk": "Три"
+            },
+            {
+              "en": "Five",
+              "uk": "П'ять"
+            }
+          ],
+          "correct_index": 0,
+          "explanation": {
+            "en": "For once, Turn 1 behaved — scrappy moments aplenty, but not a single car was wiped out on the opening lap.",
+            "uk": "Цього разу перший поворот поводився чемно — метушні вистачало, та жоден болід не вибув на першому колі."
+          }
+        }
+      ]
+    },
+    {
+      "id": "austria-2026-tf",
+      "category_id": "2026",
+      "title": {
+        "en": "Austrian Grand Prix 2026",
+        "uk": "Гран-прі Австрії 2026"
+      },
+      "type": "true_false",
+      "created_at": "2026-06-28T00:00:00Z",
+      "questions": [
+        {
+          "id": "austria-2026-tf-q21",
+          "text": {
+            "en": "Russell's victory was his first since the season opener.",
+            "uk": "Перемога Расселла стала першою від початку сезону."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "His first since Melbourne — a long-awaited return to the top step after a flat start to the year.",
+            "uk": "Перша від Мельбурна — довгоочікуване повернення на верхню сходинку після млявого старту року."
+          }
+        },
+        {
+          "id": "austria-2026-tf-q22",
+          "text": {
+            "en": "Verstappen recovered from his qualifying crash to reach the podium.",
+            "uk": "Ферстаппен оговтався після аварії в кваліфікації й дістався подіуму."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "Gravel on Saturday, podium on Sunday — exactly the bounce-back you'd expect from him.",
+            "uk": "Гравій у суботу, подіум у неділю — саме той камбек, якого від нього й чекаєш."
+          }
+        },
+        {
+          "id": "austria-2026-tf-q23",
+          "text": {
+            "en": "Verstappen and Hamilton's battle stayed clean, with no complaints to the stewards.",
+            "uk": "Бій Ферстаппена й Гамільтона був чистим, без скарг до стюардів."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "Anything but clean — Max was bundled onto the gravel and loudly demanded a Hamilton penalty that never came.",
+            "uk": "Геть не чистим — Макса виштовхнули на гравій, і він гучно вимагав штрафу Гамільтону, якого не дали."
+          }
+        },
+        {
+          "id": "austria-2026-tf-q24",
+          "text": {
+            "en": "Ferrari turned a front-row start into a podium.",
+            "uk": "Ferrari перетворила старт із першого ряду на подіум."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "Front row to fifth and eighth — Ferrari fluffed it again, leaving the podium to Mercedes and Red Bull.",
+            "uk": "Із першого ряду на п'яте й восьме — Ferrari знову схибила, віддавши подіум Mercedes і Red Bull."
+          }
+        },
+        {
+          "id": "austria-2026-tf-q25",
+          "text": {
+            "en": "Leclerc warmly praised his tyres over the radio.",
+            "uk": "Леклер тепло похвалив свої шини по радіо."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "Hardly — his radio verdict on the tyres was unprintable as his race fell apart.",
+            "uk": "Аж ніяк — його радіовердикт про шини був нецензурним, поки гонка розсипалася."
+          }
+        },
+        {
+          "id": "austria-2026-tf-q26",
+          "text": {
+            "en": "Both Cadillacs retired, stretching a season full of fires and breakdowns.",
+            "uk": "Обидва Cadillac зійшли, продовживши сезон із пожежами й поломками."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "Floor fire in practice, cooked brakes in the race — the gremlins never left the American squad alone.",
+            "uk": "Пожежа підлоги на практиці, спалені гальма в гонці — гремліни так і не відчепилися від американців."
+          }
+        },
+        {
+          "id": "austria-2026-tf-q27",
+          "text": {
+            "en": "Antonelli had a clean, mistake-free opening stint on his way to third.",
+            "uk": "Антонеллі провів чистий, безпомилковий перший відрізок на шляху до третього місця."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "Far from clean — he ran wide repeatedly early before dragging himself back to the rostrum.",
+            "uk": "Геть не чисто — він кілька разів вилітав широко на початку, перш ніж дотягтися назад до подіуму."
+          }
+        },
+        {
+          "id": "austria-2026-tf-q28",
+          "text": {
+            "en": "Lawson reported a fire on his car but was still able to keep racing.",
+            "uk": "Лоусон повідомив про вогонь на боліді, але зміг їхати далі."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "Smoke and all, he soldiered on — a brave call that still banked points despite losing a spot.",
+            "uk": "З димом і всім — він не здався, сміливо втримавши очки, хоч і з втратою позиції."
+          }
+        },
+        {
+          "id": "austria-2026-tf-q29",
+          "text": {
+            "en": "Hamilton's aggressive three-stop undercut ultimately cost him a podium.",
+            "uk": "Агресивний андеркат у три піт-стопи зрештою коштував Гамільтону подіуму."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "He gambled on stopping early and often, but a poor soft stint in the heat quietly buried his podium hopes.",
+            "uk": "Він поставив на ранні й часті піт-стопи, та слабкий відрізок на «софті» у спеку тихо поховав надії на подіум."
+          }
+        },
+        {
+          "id": "austria-2026-tf-q30",
+          "text": {
+            "en": "Keeping Verstappen out five extra laps helped him leapfrog Russell.",
+            "uk": "Зайві п'ять кіл на трасі допомогли Ферстаппену перестрибнути Расселла."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "Backfired badly — he emerged ten seconds adrift, killing any chance of catching Russell.",
+            "uk": "Вийшло навпаки — він виїхав на десять секунд позаду, поховавши шанс наздогнати Расселла."
+          }
+        },
+        {
+          "id": "austria-2026-tf-q31",
+          "text": {
+            "en": "Norris beat Piastri to finish as the leading McLaren.",
+            "uk": "Норріс випередив Піастрі й став першим McLaren на фініші."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "Other way round — Piastri was the lead McLaren in fourth, with Norris trailing in seventh.",
+            "uk": "Навпаки — першим McLaren був Піастрі на четвертому, а Норріс плентався сьомим."
+          }
+        },
+        {
+          "id": "austria-2026-tf-q32",
+          "text": {
+            "en": "Norris's formation lap went off completely trouble-free.",
+            "uk": "Прогрівальне коло Норріса минуло геть без проблем."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "A long brake pedal gave him a fright on the way to the grid — sorted just in time for lights out.",
+            "uk": "Довга педаль гальма налякала його дорогою на грід — полагодили якраз перед стартом."
+          }
+        },
+        {
+          "id": "austria-2026-tf-q33",
+          "text": {
+            "en": "Alonso was the last classified finisher after a time penalty.",
+            "uk": "Алонсо став останнім класифікованим пілотом після штрафу."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "A five-second hit dropped him to the very back of the classified order, eighteenth.",
+            "uk": "П'ять секунд штрафу скинули його в самий хвіст класифікованих — на вісімнадцяте."
+          }
+        },
+        {
+          "id": "austria-2026-tf-q34",
+          "text": {
+            "en": "Hadjar got the better of a struggling Leclerc late in the race.",
+            "uk": "Аджар наприкінці гонки переграв Леклера, що мучився."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "He picked off the wounded Ferrari late on, sealing a tidy sixth for Red Bull.",
+            "uk": "Наприкінці він обійшов поранений Ferrari, забезпечивши собі акуратне шосте для Red Bull."
+          }
+        },
+        {
+          "id": "austria-2026-tf-q35",
+          "text": {
+            "en": "Sainz brought his Williams home in the points.",
+            "uk": "Сайнс довіз свій Williams до очок."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "No such luck — Sainz failed to finish, Williams' miserable run grinding on.",
+            "uk": "Не пощастило — Сайнс не фінішував, жалюгідна серія Williams тривала."
+          }
+        },
+        {
+          "id": "austria-2026-tf-q36",
+          "text": {
+            "en": "Russell's pole lap was cleared by the FIA over the yellow-flag question.",
+            "uk": "Поул-коло Расселла FIA визнала чистим у питанні жовтих прапорів."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "Race Control confirmed it was a single yellow as he passed — pole stood, drama over.",
+            "uk": "Дирекція гонки підтвердила одинарний жовтий у мить проїзду — поул устояв, драма скінчилася."
+          }
+        },
+        {
+          "id": "austria-2026-tf-q37",
+          "text": {
+            "en": "Verstappen breezed comfortably through Q2 with plenty to spare.",
+            "uk": "Ферстаппен легко й із запасом пройшов Q2."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "Nervy stuff — he scraped into Q3 by four-hundredths, almost knocked out by Gasly.",
+            "uk": "Нервово — він проліз у Q3 на чотири сотих, мало не вилетівши через Гаслі."
+          }
+        },
+        {
+          "id": "austria-2026-tf-q38",
+          "text": {
+            "en": "Antonelli openly admitted aborting his lap was his own mistake.",
+            "uk": "Антонеллі відверто визнав, що кинути коло було його помилкою."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "'That was my mistake,' he conceded — an honest verdict on a costly panic.",
+            "uk": "«Це була моя помилка», — визнав він — чесний вердикт за дорогу паніку."
+          }
+        },
+        {
+          "id": "austria-2026-tf-q39",
+          "text": {
+            "en": "Russell came under late pressure from Verstappen but had enough to win.",
+            "uk": "Наприкінці Ферстаппен тиснув на Расселла, але тому вистачило, щоб виграти."
+          },
+          "correct_answer": true,
+          "explanation": {
+            "en": "Max closed in late but ran out of road — Russell held firm to take the flag.",
+            "uk": "Макс наблизився наприкінці, та траси не вистачило — Расселл утримався й узяв фініш."
+          }
+        },
+        {
+          "id": "austria-2026-tf-q40",
+          "text": {
+            "en": "Norris, last year's pole-sitter here, again started near the front.",
+            "uk": "Норріс, торішній поулмен цієї траси, знову стартував попереду."
+          },
+          "correct_answer": false,
+          "explanation": {
+            "en": "Last year's polesitter started only sixth this time — the McLaren a long way off the front.",
+            "uk": "Торішній поулмен стартував лише шостим — McLaren був далеко від лідерів."
           }
         }
       ]
